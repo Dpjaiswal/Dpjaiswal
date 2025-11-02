@@ -1,6 +1,6 @@
 # Hi, I'm Durga Prasad Jaiswal 👋  
 
-**M.Sc. IT (AI) Student | Python & MERN Stack Developer | AI & ML Enthusiast | India**
+**M.Sc. IT (AI) Student | Python Developer | AI & ML Enthusiast | India**
 
 ---
 
