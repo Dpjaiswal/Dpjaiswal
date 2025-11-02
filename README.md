@@ -20,7 +20,7 @@
 
 ### 🧩 Tech Stack  
 
-**Languages:** Python, C
+**Languages:** Python, C. 
 **AI/ML Tools:** TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib  
 **Web Development:** Django, HTML, CSS  
 **Database:** MySQL, MongoDB  
