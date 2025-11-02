@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me  
 - 🎓 Currently pursuing **M.Sc. in IT (Artificial Intelligence)** from University of Mumbai.  
-- 🤖 Passionate about **Machine Learning, Deep Learning, and NLP**.  
+- 🤖 Passionate about **Machine Learning, Deep Learning, and NLP, Python-Django**.  
 - 💻 I enjoy turning complex problems into simple, smart, and efficient AI solutions.  
 - 🔍 Exploring projects that combine **AI + Automation + Real-world impact**.  
 
