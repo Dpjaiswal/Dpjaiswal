@@ -1,4 +1,4 @@
-# Hi, I'm Durga Prasad Jaiswal 👋  
+# Hi, I'm Durga Prasad Jaiswal 
 
 **M.Sc. IT (AI) Student | Python Developer | AI & ML Enthusiast | India**
 
