@@ -13,8 +13,7 @@
 ---
 
 ### 🚀 Currently Working On  
-- 🧠 **AI for Real-Time Sign Language Translation**  
-- 🎬 **Invoice Management System**  
+- 🧠 **AI for Real-Time Sign Language Translation**    
 
 ---
 
@@ -39,6 +38,7 @@
 1. 🧠 **Library Management System** –  Manages book records, user details, and borrowing activities digitally.
 2. 🎬 **Student Grievence System** –   Allows students to submit, track, and resolve complaints efficiently.
 3. 🔊 **University Department Ranking Framework (UDRF)** – Evaluates and ranks university departments based on performance metrics.
+4. 🎬 **Invoice Management System** - An Invoice Management System is a software tool that creates, tracks, and manages invoices efficiently.
 
 ---
 
