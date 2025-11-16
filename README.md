@@ -29,9 +29,9 @@
 ---
 
 ### 📚 Learning & Exploring  
-- 🔹 Computer Vision and Deep Learning  
-- 🔹 NLP (Natural Language Processing)  
-- 🔹 ML (Machine Learning) 
+🔹 Computer Vision and Deep Learning  
+🔹 NLP (Natural Language Processing)  
+🔹 ML (Machine Learning) 
 
 ---
 
