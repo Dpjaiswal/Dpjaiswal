@@ -51,7 +51,7 @@
 
 ### 📫 Connect With Me  
 - 📧 **Email:** your-email@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/durga-prasad-jaiswal-59a443249/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dp-jaiswal/)
 - 🌐 [Portfolio](https://YOUR-PORTFOLIO-LINK)  
 
 ---
