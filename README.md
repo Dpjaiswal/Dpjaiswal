@@ -1,90 +1,33 @@
-<h1 align="center">Durga Prasad Jaiswal</h1>
+# Hi, I'm Durga Prasad Jaiswal 👋
 
-<h3 align="center">
-AI/ML Developer • GenAI Engineer • RAG Specialist
-</h3>
+I'm an AI/ML Developer and M.Sc. IT (Artificial Intelligence) student at the University of Mumbai. I enjoy building intelligent applications that combine Machine Learning, Information Retrieval, and Large Language Models to solve real-world problems. My recent work has focused on Retrieval-Augmented Generation (RAG), semantic search, and production-ready AI systems.
 
-<p align="center">
-Building Production-Ready AI Systems using LLMs, RAG, FastAPI, LangChain and Vector Databases
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;GenAI+Engineer;RAG+Systems+Builder;FastAPI+Backend+Developer;Semantic+Search+Engineer;Research+Author;Always+Learning+Something+New" />
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/dp-jaiswal/">LinkedIn</a> •
-<a href="mailto:dpjaiswal.lkouniv@gmail.com">Email</a> •
-<a href="https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf">Research Paper</a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Dpjaiswal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+Currently, I'm working as an AI/ML Developer Intern, where I build RAG pipelines, design hybrid retrieval systems, and develop AI applications using FastAPI and modern LLM technologies. I'm always interested in learning new technologies and exploring innovative ways to make AI systems more reliable and useful.
 
 ---
 
-# 🚀 About Me
-
-🎓 Pursuing **M.Sc. IT (Artificial Intelligence)** from University of Mumbai.
-
-💡 Passionate about building intelligent AI applications powered by Machine Learning, Retrieval-Augmented Generation (RAG), Semantic Search, and Large Language Models.
-
-💼 Currently working as an **AI/ML Developer Intern**, building production-grade AI systems involving document ingestion, hybrid retrieval, reranking, and grounded LLM response generation.
-
-🔭 Current Focus
+## What I'm Currently Exploring
 
 * Retrieval-Augmented Generation (RAG)
+* Semantic Search & Hybrid Search
 * Agentic AI Systems
-* Semantic Search
-* Hybrid Search
-* FastAPI Development
+* FastAPI Backend Development
 * Large Language Models (LLMs)
-
-🌱 Currently Exploring
-
-* LangGraph
-* Multi-Agent Systems
-* Computer Vision
-* Deep Learning
-* Open Source AI
+* Computer Vision & Deep Learning
 
 ---
 
-# 🏆 Achievement Matrix
+## Tech Stack
 
-✅ AI/ML Developer Intern
+### Programming & Backend
 
-✅ Python Developer Intern
+* Python
+* SQL
+* FastAPI
+* Django
+* REST APIs
 
-✅ Published Research Author
-
-✅ Built End-to-End RAG Systems
-
-✅ Hybrid Search Implementations
-
-✅ Cross-Encoder Reranking Systems
-
-✅ FastAPI Production APIs
-
-✅ M.Sc. IT (Artificial Intelligence)
-
----
-
-# ⚙️ Tech Arsenal
-
-## 🤖 AI / GenAI
-
-* Retrieval-Augmented Generation (RAG)
-* LangChain
-* LangGraph
-* Semantic Search
-* Hybrid Search
-* Prompt Engineering
-* Cross Encoder Reranking
-* Hallucination Mitigation
-
-## 🧠 Machine Learning
+### AI / Machine Learning
 
 * TensorFlow
 * Scikit-Learn
@@ -92,20 +35,21 @@ Building Production-Ready AI Systems using LLMs, RAG, FastAPI, LangChain and Vec
 * NumPy
 * Matplotlib
 
-## ⚡ Backend Development
+### GenAI & Retrieval
 
-* FastAPI
-* Django
-* REST APIs
+* LangChain
+* LangGraph
+* RAG
+* Semantic Search
+* Hybrid Search
+* Cross-Encoder Reranking
+* Prompt Engineering
 
-## 🗄️ Databases
+### Databases & Tools
 
 * MySQL
 * MongoDB
-* Qdrant Vector Database
-
-## 🔧 Tools & Platforms
-
+* Qdrant
 * Git
 * GitHub
 * Ollama
@@ -113,156 +57,72 @@ Building Production-Ready AI Systems using LLMs, RAG, FastAPI, LangChain and Vec
 
 ---
 
-# 🧬 Technology Matrix
+## Professional Experience
 
-| Domain             | Technologies                            |
-| ------------------ | --------------------------------------- |
-| Programming        | Python, SQL                             |
-| Backend            | FastAPI, Django, REST APIs              |
-| AI / ML            | TensorFlow, Scikit-Learn, Pandas, NumPy |
-| GenAI              | RAG, LangChain, LangGraph               |
-| Search & Retrieval | BM25, TF-IDF, RRF, Semantic Search      |
-| Embeddings         | SentenceTransformers, nomic-embed-text  |
-| Reranking          | Cross Encoders, BGE Reranker            |
-| Databases          | MySQL, MongoDB, Qdrant                  |
-| LLMs               | Llama, Groq API, Ollama                 |
-| Version Control    | Git, GitHub                             |
+### AI/ML Developer Intern | Apana Time Tech Solutions
 
----
+At Apana Time Tech Solutions, I work on developing production-style AI systems that can process and retrieve information from large document collections. My work involves designing hybrid retrieval pipelines, implementing reranking mechanisms, and integrating LLMs to generate grounded and reliable responses.
 
-# 🧠 Industry Domains
+Key contributions include:
 
-### 🤖 Artificial Intelligence Systems
+* Building end-to-end RAG pipelines
+* Designing dense + sparse retrieval systems
+* Implementing cross-encoder reranking
+* Developing semantic search applications
+* Reducing hallucinations through grounding techniques
 
-Designing and developing AI-powered applications using Machine Learning, NLP and LLMs.
+### Python Developer Intern | Mobcoder Technologies
 
-### 📄 Retrieval-Augmented Generation (RAG)
-
-Building production-grade retrieval systems with embeddings, reranking and grounded response generation.
-
-### ⚖️ Legal AI Systems
-
-Developing legal question-answering applications using semantic search and hybrid retrieval.
-
-### 🔍 Search & Retrieval Infrastructure
-
-Implementing Dense Retrieval, Sparse Retrieval, BM25, TF-IDF and RRF Fusion systems.
-
-### 🏗️ Backend Engineering
-
-Building scalable backend services using FastAPI, Django and REST APIs.
+During my internship at Mobcoder Technologies, I worked on Django-based applications and backend development. I collaborated with the development team to integrate frontend and backend components while improving usability and overall system performance.
 
 ---
 
-# 💼 Professional Experience
+## Featured Projects
 
-## AI/ML Developer Intern
+### Hybrid RAG Pipeline for Financial Document Analysis
 
-### Apana Time Tech Solutions
+This project focuses on analyzing financial documents using a hybrid retrieval architecture. The system combines dense embeddings and BM25 search to improve retrieval quality before generating responses through an LLM.
 
-* Engineered production-grade RAG pipelines for unstructured documents.
-* Designed hybrid retrieval systems combining dense and sparse search.
-* Implemented cross-encoder reranking for improved retrieval quality.
-* Developed grounded LLM workflows with hallucination mitigation.
-* Built scalable semantic search solutions.
+Highlights:
 
----
-
-## Python Developer Intern
-
-### Mobcoder Technologies
-
-* Developed Django-based applications and backend modules.
-* Integrated frontend and backend systems.
-* Worked with APIs and database-driven applications.
-* Improved system usability and performance.
-
----
-
-# 🌟 Featured Projects
-
-## 📄 Hybrid RAG Pipeline for Financial Document Analysis
-
-### Tech Stack
-
-FastAPI • Qdrant • LangChain • BM25 • Groq • Llama
-
-### Highlights
-
-* End-to-End RAG Pipeline
-* PDF Ingestion & Semantic Chunking
-* Metadata-Aware Retrieval
-* Hybrid Search (Dense + Sparse)
-* Cross Encoder Reranking
-* Grounded LLM Responses
-* Hallucination Mitigation
-
----
-
-## ⚖️ Legal RAG System
-
-### Tech Stack
-
-FastAPI • InLegalBERT • LangChain • TF-IDF • RRF
-
-### Highlights
-
-* Legal Question Answering
-* Semantic Search
-* Hybrid Retrieval
-* Cross Encoder Reranking
-* Reliable Context Retrieval
+* PDF ingestion and semantic chunking
+* Metadata-aware retrieval
+* Dense + Sparse Hybrid Search
+* Cross-Encoder Reranking
 * Grounded Response Generation
 
----
+### Legal RAG System
 
-## 🤟 AI for Real-Time Translation of Sign Language
+A legal question-answering system built using semantic search and retrieval techniques. The goal of the project is to provide relevant legal information while maintaining high retrieval accuracy and reducing hallucinations.
 
-### Tech Stack
+Key features:
 
-Python • Computer Vision • Deep Learning
+* Hybrid Retrieval
+* TF-IDF + Dense Search
+* RRF Fusion
+* Semantic Search
+* Reliable Context Generation
 
-### Highlights
+### AI for Real-Time Translation of Sign Language
 
-* Real-Time Gesture Recognition
-* Sign-to-Text Translation
-* AI-Based Recognition Pipeline
-* Published Research Work
+This research project aims to translate sign language into text in real time using AI and Computer Vision techniques. The work was published in an international research journal and focuses on improving communication accessibility.
 
----
+### Library Management System
 
-## 📚 Library Management System
-
-### Tech Stack
-
-Django • MySQL • HTML • CSS
-
-### Highlights
-
-* Inventory Management
-* Member Registration
-* Issue & Return Automation
-* Reservation Functionality
-* Fine Management System
+A Django-based web application developed to manage library operations digitally. It supports inventory management, member registration, issue-return workflows, and reservation functionality.
 
 ---
 
-# 📖 Research Publication
+## Research Publication
 
-## AI for Real-Time Translation of Sign Language
+One of my most significant academic achievements is my research paper titled **"AI for Real-Time Translation of Sign Language"**, published in the *International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED)*.
 
-Published in:
-
-**International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED)**
-
-📅 December 2025
-
-🔗 Paper:
+📄 Paper Link:
 https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 
 ---
 
-# 🎓 Certifications
+## Certifications
 
 * Build RAG Systems: Generative AI & LangChain Mastery
 * Python and Django Framework for Beginners
@@ -270,60 +130,25 @@ https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 
 ---
 
-# 🚀 2026 Goals
+## GitHub Stats
 
-* Build Production-Grade Agentic AI Systems
-* Master LangGraph & Multi-Agent Workflows
-* Contribute to Open Source AI Projects
-* Publish More Research Papers
-* Become a Professional AI Engineer
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dpjaiswal\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dpjaiswal\&layout=compact)
 
 ---
 
-# 📊 GitHub Intelligence Panel
+## Connect With Me
 
-## 📈 GitHub Statistics
+💼 LinkedIn:
+https://www.linkedin.com/in/dp-jaiswal/
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dpjaiswal&show_icons=true&theme=tokyonight" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dpjaiswal&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dpjaiswal&theme=tokyonight" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dpjaiswal&theme=tokyonight&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## 📈 Contribution Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dpjaiswal\&theme=tokyo-night)](https://github.com/Dpjaiswal)
-
----
-
-# 📫 Connect With Me
-
-📧 Email: [dpjaiswal.lkouniv@gmail.com](mailto:dpjaiswal.lkouniv@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/dp-jaiswal/
+📧 Email:
+[dpjaiswal.lkouniv@gmail.com](mailto:dpjaiswal.lkouniv@gmail.com)
 
 📄 Research Publication:
 https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 
 ---
 
-<p align="center">
-⭐ Building Intelligent Systems That Create Real-World Impact ⭐
-</p>
+*"Keep learning, keep building, and keep improving."*
