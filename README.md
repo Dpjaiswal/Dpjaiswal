@@ -170,8 +170,7 @@ Published in:
 
 📧 Email: [dpjaiswal.lkouniv@gmail.com](mailto:dpjaiswal.lkouniv@gmail.com)
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
-
+💼 LinkedIn: (https://www.linkedin.com/in/dp-jaiswal/)
 🌐 Portfolio: YOUR_PORTFOLIO_URL
 
 ---
