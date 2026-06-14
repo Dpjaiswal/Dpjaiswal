@@ -1,14 +1,4 @@
-# Hi, I'm Durga Prasad Jaiswal
-
-### AI/ML Developer | GenAI Engineer | M.Sc. IT (Artificial Intelligence)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Dpjaiswal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-<h1 align="center">Hi 👋, I'm Durga Prasad Jaiswal</h1>
+<h1 align="center">Hi, **I'm Durga Prasad Jaiswal**</h1>
 
 <h3 align="center">
 AI/ML Developer | GenAI Engineer | RAG Specialist
