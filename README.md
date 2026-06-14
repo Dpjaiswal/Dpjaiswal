@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Durga Prasad Jaiswal</h1>
+<h1 align="center">Hi, I'm Durga Prasad Jaiswal</h1>
 
 <h3 align="center">
 AI/ML Developer | GenAI Engineer | RAG Specialist
