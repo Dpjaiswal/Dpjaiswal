@@ -8,27 +8,49 @@
 
 ---
 
-## 🚀 About Me
+<h1 align="center">Hi 👋, I'm Durga Prasad Jaiswal</h1>
+
+<h3 align="center">
+AI/ML Developer | GenAI Engineer | RAG Specialist
+</h3>
+
+<p align="center">
+Building Production-Ready AI Systems using LLMs, RAG, FastAPI and Vector Databases
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=AI%2FML+Developer;GenAI+Engineer;RAG+Systems+Builder;FastAPI+Backend+Developer;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Dpjaiswal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+# 🚀 About Me
 
 🎓 Pursuing **M.Sc. IT (Artificial Intelligence)** from University of Mumbai
 
 💼 AI/ML Developer with hands-on experience in:
 
 * Retrieval-Augmented Generation (RAG)
-* Large Language Models (LLMs)
-* Semantic Search & Hybrid Search
+* Hybrid Search & Semantic Search
+* LLM Integration
 * FastAPI & Django Development
 * Vector Databases
-* Machine Learning & NLP
+* NLP & Machine Learning
+* Cross-Encoder Reranking
+* Production AI Pipelines
 
-🔭 Currently working on:
+🔭 Currently Working On
 
-* Advanced RAG Systems
+* Agentic AI Systems
+* Advanced RAG Architectures
 * Legal AI Applications
 * AI for Real-Time Sign Language Translation
-* Agentic AI Workflows
 
-🌱 Currently learning:
+🌱 Currently Learning
 
 * LangGraph
 * Multi-Agent AI Systems
@@ -37,112 +59,133 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🎯 Specializations
 
-### Languages
+✅ Retrieval-Augmented Generation (RAG)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+✅ Hybrid Search Systems
 
-### AI / ML
+✅ Semantic Search
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+✅ Cross Encoder Reranking
 
-### GenAI & NLP
+✅ Hallucination Mitigation
 
-* RAG
-* Hybrid Search
-* Semantic Search
-* LangChain
-* LangGraph
-* Sentence Transformers
-* InLegalBERT
-* Cross Encoders
-* BGE Reranker
+✅ LLM Integration
 
-### Backend
+✅ FastAPI Backend Development
 
-* FastAPI
-* Django
-* REST APIs
-
-### Databases
-
-* MySQL
-* MongoDB
-* Qdrant Vector Database
-
-### Tools
-
-* Git
-* GitHub
-* Ollama
-* Groq API
+✅ Vector Databases
 
 ---
 
-## 💼 Experience
+# 🛠️ Tech Stack
 
-### AI/ML Developer Intern
+| Domain             | Technologies                            |
+| ------------------ | --------------------------------------- |
+| Programming        | Python, SQL                             |
+| Backend            | FastAPI, Django, REST APIs              |
+| AI / ML            | TensorFlow, Scikit-Learn, Pandas, NumPy |
+| GenAI              | RAG, LangChain, LangGraph               |
+| Search & Retrieval | BM25, TF-IDF, RRF, Semantic Search      |
+| Embeddings         | SentenceTransformers, nomic-embed-text  |
+| Reranking          | Cross Encoders, BGE Reranker            |
+| Databases          | MySQL, MongoDB, Qdrant                  |
+| LLMs               | Llama, Groq API, Ollama                 |
+| Tools              | Git, GitHub                             |
 
-**Apana Time Tech Solutions**
+---
 
-* Built production-style RAG pipelines
-* Implemented hybrid retrieval systems
-* Developed semantic search solutions
-* Applied cross-encoder reranking
-* Reduced hallucinations using grounding and guardrails
+# 💼 Experience
 
-### Python Developer Intern
+## AI/ML Developer Intern
 
-**Mobcoder Technologies**
+### Apana Time Tech Solutions
 
-* Developed Django applications
-* Worked on backend APIs
+* Built production-grade RAG pipelines for unstructured documents
+* Designed hybrid retrieval systems combining dense and sparse search
+* Implemented cross-encoder reranking for improved relevance
+* Developed grounded LLM workflows with hallucination mitigation
+* Built scalable semantic search solutions
+
+---
+
+## Python Developer Intern
+
+### Mobcoder Technologies
+
+* Developed backend modules using Django
 * Integrated frontend and backend systems
-* Improved application usability and responsiveness
+* Worked with APIs and database-driven applications
+* Improved application performance and usability
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
-### 📄 Hybrid RAG Pipeline for Financial Document Analysis
+## 📄 Hybrid RAG Pipeline for Financial Document Analysis
 
-* End-to-end RAG pipeline for financial documents
-* Semantic chunking and vector indexing
-* Dense + BM25 Hybrid Retrieval
-* Cross-Encoder Reranking
-* FastAPI deployment
+**Tech Stack:** FastAPI • Qdrant • LangChain • Groq • BM25
 
-### ⚖️ Legal RAG System
+### Features
 
-* Legal Question Answering System
-* Dense Retrieval + TF-IDF + RRF Fusion
+* PDF Ingestion Pipeline
+* Semantic Chunking
+* Metadata-Aware Retrieval
+* Dense + Sparse Hybrid Search
+* Cross Encoder Reranking
+* Grounded LLM Response Generation
+* Hallucination Mitigation
+
+---
+
+## ⚖️ Legal RAG System
+
+**Tech Stack:** FastAPI • InLegalBERT • LangChain • TF-IDF • RRF
+
+### Features
+
+* Legal Question Answering
 * Semantic Search
-* Cross-Encoder Reranking
-* Hallucination Reduction
-
-### 🤟 AI for Real-Time Sign Language Translation
-
-* Research-based AI project
-* Computer Vision driven gesture recognition
-* Real-time translation system
-* Published research work
-
-### 📚 Library Management System
-
-* Django + MySQL
-* Inventory Management
-* Member Registration
-* Issue / Return Automation
+* Hybrid Retrieval
+* Cross Encoder Reranking
+* Grounded Responses
+* Reliable Context Retrieval
 
 ---
 
-## 📜 Research Publication
+## 🤟 AI for Real-Time Sign Language Translation
+
+**Tech Stack:** Python • Computer Vision • Deep Learning
+
+### Features
+
+* Real-Time Gesture Recognition
+* Sign-to-Text Translation
+* AI-Powered Recognition Pipeline
+* Research Publication
+
+---
+
+## 📚 Library Management System
+
+**Tech Stack:** Django • MySQL • HTML • CSS
+
+### Features
+
+* Book Inventory Management
+* Member Registration
+* Issue & Return Automation
+* Reservation System
+* Fine Management
+
+---
+
+# 📖 Research Publication
 
 ### AI for Real-Time Translation of Sign Language
 
-Published in:
+📚 Published in:
 
 **International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED)**
 
@@ -150,29 +193,62 @@ Published in:
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
 * Build RAG Systems: Generative AI & LangChain Mastery
-* Python and Django Framework for Beginners
+* Python And Django Framework for Beginners
 * Ultimate MySQL Crash Course
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 2026 Goals
 
-![Durga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dpjaiswal\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dpjaiswal\&layout=compact\&theme=tokyonight)
+* Build Production-Grade Agentic AI Systems
+* Master LangGraph & Multi-Agent Workflows
+* Contribute to Open Source AI Projects
+* Publish More Research Papers
+* Become a Professional AI Engineer
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dpjaiswal&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dpjaiswal&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dpjaiswal&theme=tokyonight" />
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Dpjaiswal&theme=tokyonight&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Durga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dpjaiswal\&theme=tokyo-night)](https://github.com/Dpjaiswal)
+
+---
+
+# 📫 Connect With Me
 
 📧 Email: [dpjaiswal.lkouniv@gmail.com](mailto:dpjaiswal.lkouniv@gmail.com)
 
-💼 LinkedIn: (https://www.linkedin.com/in/dp-jaiswal/)
+💼 LinkedIn: YOUR_LINKEDIN_URL
+
 🌐 Portfolio: YOUR_PORTFOLIO_URL
 
 ---
 
-### ⭐ Building AI Solutions, One Project at a Time.
+<p align="center">
+⭐ <b>Building Intelligent Systems That Make An Impact</b> ⭐
+</p>
+
