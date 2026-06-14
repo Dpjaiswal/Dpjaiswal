@@ -232,7 +232,7 @@ Building Production-Ready AI Systems using LLMs, RAG, FastAPI and Vector Databas
 
 📧 Email: [dpjaiswal.lkouniv@gmail.com](mailto:dpjaiswal.lkouniv@gmail.com)
 
-💼 LinkedIn: (https://www.linkedin.com/in/dp-jaiswal/)
+💼 LinkedIn: https://www.linkedin.com/in/dp-jaiswal/
 
 🌐 Portfolio: YOUR_PORTFOLIO_URL
 
