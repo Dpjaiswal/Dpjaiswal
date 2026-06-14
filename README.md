@@ -1,4 +1,4 @@
-# Hi 👋, I'm Durga Prasad Jaiswal
+# Hi, I'm Durga Prasad Jaiswal
 
 ### AI/ML Developer | GenAI Engineer | M.Sc. IT (Artificial Intelligence)
 
