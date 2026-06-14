@@ -1,4 +1,4 @@
-<h1 align="center">Hi, **I'm Durga Prasad Jaiswal**</h1>
+<h1 align="center">Hi 👋, I'm Durga Prasad Jaiswal</h1>
 
 <h3 align="center">
 AI/ML Developer | GenAI Engineer | RAG Specialist
@@ -241,4 +241,3 @@ Building Production-Ready AI Systems using LLMs, RAG, FastAPI and Vector Databas
 <p align="center">
 ⭐ <b>Building Intelligent Systems That Make An Impact</b> ⭐
 </p>
-
