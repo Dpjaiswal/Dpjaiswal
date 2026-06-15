@@ -1,17 +1,17 @@
 <h1 align="center">Durga Prasad Jaiswal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;GenAI+Engineer;RAG+Developer;FastAPI+Backend+Developer;Semantic+Search+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;GenAI+Engineer;RAG+Developer;FastAPI+Backend+Developer;Semantic+Search+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  M.Sc. IT (Artificial Intelligence) Student • AI/ML Developer Intern 
+Building AI Applications with LLMs, Retrieval-Augmented Generation, Semantic Search and FastAPI
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dp-jaiswal/">LinkedIn</a> •
-  <a href="mailto:dpjaiswal.lkouniv@gmail.com">Email</a> •
-  <a href="https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf">Research Paper</a>
+<a href="https://www.linkedin.com/in/dp-jaiswal/">LinkedIn</a> •
+<a href="mailto:dpjaiswal.lkouniv@gmail.com">Email</a> •
+<a href="https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf">Research Paper</a>
 </p>
 
 ---
@@ -20,55 +20,62 @@
 
 I'm an AI/ML Developer and M.Sc. IT (Artificial Intelligence) student at the University of Mumbai.
 
-My primary interests lie in Retrieval-Augmented Generation (RAG), Semantic Search, FastAPI, and Large Language Models. I enjoy building intelligent systems that can retrieve, understand, and generate reliable information from complex datasets.
+My work focuses on building intelligent systems that combine Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Semantic Search, and modern backend engineering. I enjoy developing AI applications that can retrieve, understand, and generate reliable information from complex data sources.
 
-Currently, I'm working on production-style AI applications involving document ingestion, hybrid retrieval, reranking, and grounded response generation. I also enjoy exploring new developments in Agentic AI, NLP, and backend engineering.
+Currently, I am working as an AI/ML Developer Intern, where I design retrieval pipelines, implement reranking strategies, and build production-style AI systems using FastAPI, vector databases, and modern retrieval techniques.
 
 ---
 
-## What I'm Working On
+## Areas of Interest
 
 * Retrieval-Augmented Generation (RAG)
-* Semantic Search & Hybrid Search
-* FastAPI-based AI Applications
-* Legal AI Systems
-* Agentic AI Workflows
-* AI for Real-Time Sign Language Translation
+* Semantic Search
+* Hybrid Search Systems
+* Agentic AI
+* Large Language Models
+* Information Retrieval
+* FastAPI Backend Development
+* Computer Vision
 
 ---
 
 ## Tech Stack
 
-### Languages & Backend
-
-* Python
-* SQL
-* FastAPI
-* Django
-* REST APIs
-
-### AI / Machine Learning
+### AI & Machine Learning
 
 * TensorFlow
 * Scikit-Learn
 * Pandas
 * NumPy
-* Matplotlib
+* OpenCV
+* MediaPipe
 
-### GenAI & Retrieval
+### Generative AI
 
 * LangChain
 * LangGraph
-* RAG
+* Retrieval-Augmented Generation (RAG)
+* Prompt Engineering
 * Semantic Search
 * Hybrid Search
 * Cross-Encoder Reranking
+* Hallucination Mitigation
 
-### Databases & Tools
+### Backend Development
 
-* MySQL
-* MongoDB
+* FastAPI
+* Django
+* Flask
+* REST APIs
+
+### Databases
+
 * Qdrant
+* MongoDB
+* MySQL
+
+### Tools & Platforms
+
 * Git
 * GitHub
 * Ollama
@@ -76,43 +83,81 @@ Currently, I'm working on production-style AI applications involving document in
 
 ---
 
-## Experience
+# Featured GenAI & AI Projects
 
-### AI/ML Developer Intern | Apana Time Tech Solutions
+## Hybrid RAG Pipeline for Financial Document Analysis
 
-Working on production-grade RAG systems, semantic search applications, and retrieval pipelines. My work focuses on improving retrieval quality, implementing reranking strategies, and developing grounded AI systems.
+An end-to-end Retrieval-Augmented Generation system designed for financial document understanding and question answering.
 
-### Python Developer Intern | Mobcoder Technologies
+### Key Highlights
 
-Worked on Django-based applications, backend development, API integration, and database-driven systems while collaborating with cross-functional teams.
+* PDF ingestion and preprocessing
+* Semantic chunking pipeline
+* Metadata-aware retrieval
+* Dense + Sparse Hybrid Search
+* Cross-Encoder Reranking
+* Grounded LLM Response Generation
+* Hallucination Reduction Strategies
+
+**Tech Stack:** FastAPI, LangChain, Qdrant, BM25, Groq, Llama
 
 ---
 
-## Featured Projects
-
-### Hybrid RAG Pipeline for Financial Document Analysis
-
-An end-to-end RAG system built for financial documents using FastAPI, LangChain, Qdrant, BM25, and LLMs.
-
-**Highlights**
-
-* Semantic Chunking
-* Metadata-Aware Retrieval
-* Hybrid Search
-* Cross-Encoder Reranking
-* Grounded Response Generation
-
-### Legal RAG System
+## Legal RAG System
 
 A legal question-answering platform designed using semantic search and hybrid retrieval techniques to improve answer relevance and reliability.
 
-### AI for Real-Time Translation of Sign Language
+### Key Highlights
 
-A research-based project focused on translating sign language into text using AI and Computer Vision techniques.
+* Semantic Search
+* Dense Retrieval
+* TF-IDF Retrieval
+* Reciprocal Rank Fusion (RRF)
+* Cross-Encoder Reranking
+* Grounded Response Generation
 
-### Library Management System
+**Tech Stack:** FastAPI, InLegalBERT, LangChain, TF-IDF, RRF
 
-A Django-based application for managing books, members, issue-return workflows, and reservations.
+---
+
+## AI for Real-Time Translation of Sign Language
+
+A research-driven Computer Vision project that translates sign language gestures into text and speech in real time.
+
+The system combines hand landmark detection, gesture classification, speech recognition, and text-to-speech generation to improve communication accessibility.
+
+### Key Highlights
+
+* Real-Time Gesture Recognition
+* MediaPipe Hand Tracking
+* Speech-to-Text Integration
+* Text-to-Speech Generation
+* Indian Sign Language Support
+* Session History Tracking
+
+**Tech Stack:** Python, Flask, OpenCV, MediaPipe, scikit-learn, Whisper, Edge-TTS
+
+---
+
+## Professional Experience
+
+### AI/ML Developer Intern | Apana Time Tech Solutions
+
+Working on production-grade AI systems involving Retrieval-Augmented Generation, semantic search, hybrid retrieval, reranking, and LLM-powered applications.
+
+Key responsibilities include:
+
+* Building end-to-end RAG pipelines
+* Designing hybrid retrieval systems
+* Implementing reranking workflows
+* Improving retrieval quality
+* Developing grounded response systems
+
+---
+
+### Python Developer Intern | Mobcoder Technologies
+
+Worked on Django-based applications and backend services, focusing on application development, API integration, and database-driven solutions.
 
 ---
 
@@ -122,8 +167,7 @@ A Django-based application for managing books, members, issue-return workflows, 
 
 Published in the **International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED)**.
 
-📄 Paper:
-https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
+🔗 https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 
 ---
 
@@ -137,7 +181,7 @@ https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dpjaiswal\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dpjaiswal\&show_icons=true\&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dpjaiswal\&layout=compact)
 
@@ -151,9 +195,9 @@ https://www.linkedin.com/in/dp-jaiswal/
 📧 Email
 [dpjaiswal.lkouniv@gmail.com](mailto:dpjaiswal.lkouniv@gmail.com)
 
-📄 Research Publication
+📄 Research Paper
 https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 
 ---
 
-*"Keep learning, keep building, and keep improving."*
+> Building intelligent systems that are practical, reliable, and impactful.
