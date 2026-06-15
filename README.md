@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  M.Sc. IT (Artificial Intelligence) Student • AI/ML Developer Intern • Research Author
+  M.Sc. IT (Artificial Intelligence) Student • AI/ML Developer Intern 
 </p>
 
 <p align="center">
