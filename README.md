@@ -1,25 +1,45 @@
-# Hi, I'm Durga Prasad Jaiswal 👋
+<h1 align="center">Durga Prasad Jaiswal</h1>
 
-I'm an AI/ML Developer and M.Sc. IT (Artificial Intelligence) student at the University of Mumbai. I enjoy building intelligent applications that combine Machine Learning, Information Retrieval, and Large Language Models to solve real-world problems. My recent work has focused on Retrieval-Augmented Generation (RAG), semantic search, and production-ready AI systems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;GenAI+Engineer;RAG+Developer;FastAPI+Backend+Developer;Semantic+Search+Engineer" alt="Typing SVG" />
+</p>
 
-Currently, I'm working as an AI/ML Developer Intern, where I build RAG pipelines, design hybrid retrieval systems, and develop AI applications using FastAPI and modern LLM technologies. I'm always interested in learning new technologies and exploring innovative ways to make AI systems more reliable and useful.
+<p align="center">
+  M.Sc. IT (Artificial Intelligence) Student • AI/ML Developer Intern • Research Author
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dp-jaiswal/">LinkedIn</a> •
+  <a href="mailto:dpjaiswal.lkouniv@gmail.com">Email</a> •
+  <a href="https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf">Research Paper</a>
+</p>
 
 ---
 
-## What I'm Currently Exploring
+## About Me
+
+I'm an AI/ML Developer and M.Sc. IT (Artificial Intelligence) student at the University of Mumbai.
+
+My primary interests lie in Retrieval-Augmented Generation (RAG), Semantic Search, FastAPI, and Large Language Models. I enjoy building intelligent systems that can retrieve, understand, and generate reliable information from complex datasets.
+
+Currently, I'm working on production-style AI applications involving document ingestion, hybrid retrieval, reranking, and grounded response generation. I also enjoy exploring new developments in Agentic AI, NLP, and backend engineering.
+
+---
+
+## What I'm Working On
 
 * Retrieval-Augmented Generation (RAG)
 * Semantic Search & Hybrid Search
-* Agentic AI Systems
-* FastAPI Backend Development
-* Large Language Models (LLMs)
-* Computer Vision & Deep Learning
+* FastAPI-based AI Applications
+* Legal AI Systems
+* Agentic AI Workflows
+* AI for Real-Time Sign Language Translation
 
 ---
 
 ## Tech Stack
 
-### Programming & Backend
+### Languages & Backend
 
 * Python
 * SQL
@@ -43,7 +63,6 @@ Currently, I'm working as an AI/ML Developer Intern, where I build RAG pipelines
 * Semantic Search
 * Hybrid Search
 * Cross-Encoder Reranking
-* Prompt Engineering
 
 ### Databases & Tools
 
@@ -57,23 +76,15 @@ Currently, I'm working as an AI/ML Developer Intern, where I build RAG pipelines
 
 ---
 
-## Professional Experience
+## Experience
 
 ### AI/ML Developer Intern | Apana Time Tech Solutions
 
-At Apana Time Tech Solutions, I work on developing production-style AI systems that can process and retrieve information from large document collections. My work involves designing hybrid retrieval pipelines, implementing reranking mechanisms, and integrating LLMs to generate grounded and reliable responses.
-
-Key contributions include:
-
-* Building end-to-end RAG pipelines
-* Designing dense + sparse retrieval systems
-* Implementing cross-encoder reranking
-* Developing semantic search applications
-* Reducing hallucinations through grounding techniques
+Working on production-grade RAG systems, semantic search applications, and retrieval pipelines. My work focuses on improving retrieval quality, implementing reranking strategies, and developing grounded AI systems.
 
 ### Python Developer Intern | Mobcoder Technologies
 
-During my internship at Mobcoder Technologies, I worked on Django-based applications and backend development. I collaborated with the development team to integrate frontend and backend components while improving usability and overall system performance.
+Worked on Django-based applications, backend development, API integration, and database-driven systems while collaborating with cross-functional teams.
 
 ---
 
@@ -81,43 +92,37 @@ During my internship at Mobcoder Technologies, I worked on Django-based applicat
 
 ### Hybrid RAG Pipeline for Financial Document Analysis
 
-This project focuses on analyzing financial documents using a hybrid retrieval architecture. The system combines dense embeddings and BM25 search to improve retrieval quality before generating responses through an LLM.
+An end-to-end RAG system built for financial documents using FastAPI, LangChain, Qdrant, BM25, and LLMs.
 
-Highlights:
+**Highlights**
 
-* PDF ingestion and semantic chunking
-* Metadata-aware retrieval
-* Dense + Sparse Hybrid Search
+* Semantic Chunking
+* Metadata-Aware Retrieval
+* Hybrid Search
 * Cross-Encoder Reranking
 * Grounded Response Generation
 
 ### Legal RAG System
 
-A legal question-answering system built using semantic search and retrieval techniques. The goal of the project is to provide relevant legal information while maintaining high retrieval accuracy and reducing hallucinations.
-
-Key features:
-
-* Hybrid Retrieval
-* TF-IDF + Dense Search
-* RRF Fusion
-* Semantic Search
-* Reliable Context Generation
+A legal question-answering platform designed using semantic search and hybrid retrieval techniques to improve answer relevance and reliability.
 
 ### AI for Real-Time Translation of Sign Language
 
-This research project aims to translate sign language into text in real time using AI and Computer Vision techniques. The work was published in an international research journal and focuses on improving communication accessibility.
+A research-based project focused on translating sign language into text using AI and Computer Vision techniques.
 
 ### Library Management System
 
-A Django-based web application developed to manage library operations digitally. It supports inventory management, member registration, issue-return workflows, and reservation functionality.
+A Django-based application for managing books, members, issue-return workflows, and reservations.
 
 ---
 
 ## Research Publication
 
-One of my most significant academic achievements is my research paper titled **"AI for Real-Time Translation of Sign Language"**, published in the *International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED)*.
+### AI for Real-Time Translation of Sign Language
 
-📄 Paper Link:
+Published in the **International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED)**.
+
+📄 Paper:
 https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 
 ---
@@ -132,7 +137,7 @@ https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dpjaiswal\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dpjaiswal\&show_icons=true\&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dpjaiswal\&layout=compact)
 
@@ -140,13 +145,13 @@ https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 
 ## Connect With Me
 
-💼 LinkedIn:
+💼 LinkedIn
 https://www.linkedin.com/in/dp-jaiswal/
 
-📧 Email:
+📧 Email
 [dpjaiswal.lkouniv@gmail.com](mailto:dpjaiswal.lkouniv@gmail.com)
 
-📄 Research Publication:
+📄 Research Publication
 https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 
 ---
