@@ -1,11 +1,11 @@
-<h1 align="center">Durga Prasad Jaiswal</h1>
+<h1 align="center">🧠 Durga Prasad Jaiswal</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;GenAI+Engineer;RAG+Developer;FastAPI+Backend+Developer;Semantic+Search+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Building AI Applications with LLMs, RAG, Semantic Search and Modern Backend Systems
+Building AI Applications with LLMs, Retrieval-Augmented Generation (RAG), Semantic Search and Modern Backend Systems
 </p>
 
 <p align="center">
@@ -20,44 +20,40 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-I'm an AI/ML Developer and M.Sc. IT (Artificial Intelligence) student at the University of Mumbai.
+I'm an AI/ML Developer and currently pursuing an M.Sc. in Artificial Intelligence from the University of Mumbai.
 
-My work revolves around building intelligent systems using Retrieval-Augmented Generation (RAG), Semantic Search, FastAPI, and Large Language Models. I enjoy designing AI solutions that can retrieve, understand, and generate reliable information from large collections of data.
+My primary interest lies in building intelligent systems powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Semantic Search, and FastAPI. I enjoy transforming research concepts into practical AI applications that can solve real-world problems.
 
-Currently, I'm working as an AI/ML Developer Intern where I build production-style retrieval pipelines, implement reranking strategies, and develop AI-powered applications focused on real-world problem solving.
+Currently, I'm working as an AI/ML Developer Intern, where I design retrieval pipelines, implement reranking strategies, build semantic search systems, and develop production-style AI applications.
 
 ---
 
-# 🚀 Current Focus
+# What I'm Currently Working On
 
 * Retrieval-Augmented Generation (RAG)
 * Semantic Search & Hybrid Search
-* Agentic AI Systems
+* Agentic AI Workflows
+* FastAPI-Based AI Applications
 * Large Language Models (LLMs)
-* FastAPI Backend Development
-* Information Retrieval
+* Information Retrieval Systems
 * Computer Vision Applications
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
-## Programming Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=python,c,mysql" />
 </p>
 
----
-
-## AI / Machine Learning
+### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
 * Scikit-Learn
@@ -67,51 +63,34 @@ Currently, I'm working as an AI/ML Developer Intern where I build production-sty
 * OpenCV
 * MediaPipe
 
----
-
-## Generative AI & Retrieval
+### Generative AI & Retrieval
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semantic_Search-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hybrid_Search-228B22?style=for-the-badge" />
 </p>
 
-* LangChain
-* LangGraph
-* Retrieval-Augmented Generation (RAG)
-* Semantic Search
-* Hybrid Search
-* Cross-Encoder Reranking
-* Prompt Engineering
-* Hallucination Mitigation
-
----
-
-## Backend Development
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
 </p>
 
-* REST APIs
-* API Integration
-* Backend Architecture
-
----
-
-## Databases
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 * Qdrant Vector Database
 
----
-
-## Tools & Platforms
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 * Ollama
@@ -119,44 +98,40 @@ Currently, I'm working as an AI/ML Developer Intern where I build production-sty
 
 ---
 
-# 🌟 Featured GenAI & AI Projects
+# Featured GenAI Projects
 
 ## 📄 Hybrid RAG Pipeline for Financial Document Analysis
 
-An end-to-end Retrieval-Augmented Generation system built for financial document understanding and intelligent question answering.
+An end-to-end Retrieval-Augmented Generation system designed for analyzing financial documents and generating grounded responses.
 
 ### Key Features
 
 * PDF Ingestion Pipeline
 * Semantic Chunking
 * Metadata-Aware Retrieval
-* Dense + Sparse Hybrid Search
+* Hybrid Search (Dense + Sparse)
 * Cross-Encoder Reranking
-* Grounded LLM Responses
+* Grounded Response Generation
 * Hallucination Mitigation
 
-### Technologies
-
-FastAPI • LangChain • Qdrant • BM25 • Groq • Llama
+**Tech Stack:** FastAPI • LangChain • Qdrant • BM25 • Groq • Llama
 
 ---
 
 ## ⚖️ Legal RAG System
 
-A legal question-answering platform that combines semantic search and hybrid retrieval techniques to improve response quality and contextual relevance.
+A legal question-answering platform built using semantic search and hybrid retrieval techniques to improve contextual relevance and answer quality.
 
 ### Key Features
 
 * Semantic Search
 * Dense Retrieval
 * TF-IDF Search
-* RRF Fusion
+* Reciprocal Rank Fusion (RRF)
 * Cross-Encoder Reranking
-* Grounded Answer Generation
+* Grounded Response Generation
 
-### Technologies
-
-FastAPI • InLegalBERT • LangChain • TF-IDF • RRF
+**Tech Stack:** FastAPI • InLegalBERT • LangChain • TF-IDF • RRF
 
 ---
 
@@ -173,27 +148,25 @@ This system combines hand landmark detection, gesture classification, speech rec
 * Speech-to-Text Conversion
 * Text-to-Speech Generation
 * Indian Sign Language Support
-* Session History Tracking
+* Session History Management
 
-### Technologies
-
-Python • Flask • OpenCV • MediaPipe • scikit-learn • Whisper • Edge-TTS
+**Tech Stack:** Python • Flask • OpenCV • MediaPipe • Scikit-Learn • Whisper • Edge-TTS
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
 ## AI/ML Developer Intern | Apana Time Tech Solutions
 
 Working on production-grade AI systems involving Retrieval-Augmented Generation, semantic search, hybrid retrieval, reranking, and LLM-powered applications.
 
-Key responsibilities include:
+### Key Contributions
 
-* Building end-to-end RAG pipelines
-* Designing hybrid retrieval systems
-* Implementing reranking workflows
-* Improving retrieval quality
-* Developing grounded AI systems
+* Built End-to-End RAG Pipelines
+* Designed Hybrid Retrieval Systems
+* Implemented Cross-Encoder Reranking
+* Improved Retrieval Quality
+* Developed Grounded AI Systems
 
 ---
 
@@ -203,7 +176,7 @@ Worked on Django-based applications and backend services, focusing on API integr
 
 ---
 
-# 📚 Research Publication
+# Research Publication
 
 ## AI for Real-Time Translation of Sign Language
 
@@ -213,7 +186,7 @@ Published in the **International Journal of Advanced Multidisciplinary Research 
 
 ---
 
-# 🏅 Certifications
+# Certifications
 
 * Build RAG Systems: Generative AI & LangChain Mastery
 * Python and Django Framework for Beginners
@@ -221,7 +194,7 @@ Published in the **International Journal of Advanced Multidisciplinary Research 
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dpjaiswal&show_icons=true&rank_icon=github&hide_border=true" />
@@ -234,17 +207,7 @@ Published in the **International Journal of Advanced Multidisciplinary Research 
 
 ---
 
-# 🎯 2026 Goals
-
-* Build Production-Grade Agentic AI Systems
-* Master LangGraph & Multi-Agent Workflows
-* Contribute to Open Source AI Projects
-* Publish Additional Research Work
-* Become a Full-Time AI Engineer
-
----
-
-# 📫 Connect With Me
+# Connect With Me
 
 💼 LinkedIn
 https://www.linkedin.com/in/dp-jaiswal/
@@ -252,11 +215,11 @@ https://www.linkedin.com/in/dp-jaiswal/
 📧 Email
 [dpjaiswal.lkouniv@gmail.com](mailto:dpjaiswal.lkouniv@gmail.com)
 
-📄 Research Paper
+📄 Research Publication
 https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 
 ---
 
 <p align="center">
-<b>Building Intelligent Systems That Create Real-World Impact.</b>
+  <b>Building AI Systems That Are Practical, Reliable and Impactful.</b>
 </p>
