@@ -195,7 +195,7 @@ The system combines NLP and Audio Intelligence through cross-modal learning and 
 
 ---
 
-# 💼 Experience
+# Experience
 
 ### AI/ML Developer Intern | Apana Time Tech Solutions
 
@@ -207,7 +207,7 @@ Worked on Django-based applications, backend development, API integration, and d
 
 ---
 
-# 📚 Research Publication
+# Research Publication
 
 ### AI for Real-Time Translation of Sign Language
 
@@ -217,13 +217,13 @@ Published in the **International Journal of Advanced Multidisciplinary Research 
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dpjaiswal\&theme=react-dark)](https://github.com/Dpjaiswal)
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dpjaiswal&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -232,7 +232,7 @@ Published in the **International Journal of Advanced Multidisciplinary Research 
 
 ---
 
-# 🤖 AI Philosophy
+# AI Philosophy
 
 I believe AI systems should not only generate information but also retrieve, validate, and reason over trusted knowledge sources.
 
@@ -240,7 +240,7 @@ My current work focuses on building reliable AI applications that combine retrie
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Goals
 
 * Build Production-Grade Agentic AI Systems
 * Master Advanced RAG Architectures
