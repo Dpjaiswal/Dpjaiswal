@@ -175,7 +175,7 @@ https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 
 ---
 
-## 🕵️ AI-Powered Lie Detection System
+## AI-Powered Lie Detection System
 
 A multimodal AI system that estimates deception likelihood by analyzing both textual statements and voice signals.
 
