@@ -120,9 +120,9 @@ I enjoy developing AI applications that can retrieve, reason, and generate relia
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
-## 📄 Hybrid RAG Pipeline for Financial Document Analysis
+## Hybrid RAG Pipeline for Financial Document Analysis
 
 Built an end-to-end Retrieval-Augmented Generation system for financial document understanding and intelligent question answering.
 
