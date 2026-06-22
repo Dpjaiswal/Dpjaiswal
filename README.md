@@ -63,7 +63,7 @@ I enjoy developing AI applications that can retrieve, reason, and generate relia
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
