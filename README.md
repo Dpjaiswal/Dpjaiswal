@@ -40,7 +40,7 @@ Building AI Systems with LLMs, Retrieval-Augmented Generation, Semantic Search a
 
 ---
 
-# 👋 About Me
+# About Me
 
 I'm an AI/ML Developer and M.Sc. IT (Artificial Intelligence) student at the University of Mumbai.
 
