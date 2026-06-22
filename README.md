@@ -249,7 +249,7 @@ My current work focuses on building reliable AI applications that combine retrie
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 💼 LinkedIn
 https://www.linkedin.com/in/dp-jaiswal/
