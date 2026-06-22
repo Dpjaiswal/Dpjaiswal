@@ -246,7 +246,6 @@ My current work focuses on building reliable AI applications that combine retrie
 * Master Advanced RAG Architectures
 * Contribute to Open Source AI Projects
 * Publish Additional Research Work
-* Become a Full-Time AI Engineer
 
 ---
 
