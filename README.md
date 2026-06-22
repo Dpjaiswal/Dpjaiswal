@@ -156,7 +156,7 @@ A legal question-answering platform designed using semantic search and hybrid re
 
 ---
 
-## 🤟 AI for Real-Time Translation of Sign Language
+## AI for Real-Time Translation of Sign Language
 
 A research-driven Computer Vision project that translates sign language gestures into text and speech in real time.
 
