@@ -50,7 +50,7 @@ I enjoy developing AI applications that can retrieve, reason, and generate relia
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
 * Retrieval-Augmented Generation (RAG)
 * Semantic Search & Hybrid Search
