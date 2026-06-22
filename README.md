@@ -139,7 +139,7 @@ Built an end-to-end Retrieval-Augmented Generation system for financial document
 
 ---
 
-## ⚖️ Legal RAG System
+## Legal RAG System
 
 A legal question-answering platform designed using semantic search and hybrid retrieval pipelines to improve contextual relevance and response quality.
 
