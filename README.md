@@ -263,5 +263,5 @@ https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 ---
 
 <p align="center">
-<b>Building Intelligent Systems That Create Real-World Impact 🚀</b>
+<b>Building Intelligent Systems That Create Real-World Impact </b>
 </p>
