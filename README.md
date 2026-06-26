@@ -260,7 +260,7 @@ https://www.linkedin.com/in/dp-jaiswal/
 📧 Email
 [dpjaiswal.lkouniv@gmail.com](mailto:dpjaiswal.lkouniv@gmail.com)
 
- Research Paper
+📄 Research Paper
 https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 
 ---
