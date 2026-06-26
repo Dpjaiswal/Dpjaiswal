@@ -254,7 +254,7 @@ My current work focuses on building reliable AI applications that combine retrie
 
 # Connect With Me
 
-LinkedIn
+💼 LinkedIn
 https://www.linkedin.com/in/dp-jaiswal/
 
 📧 Email
