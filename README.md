@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Building AI Systems with LLMs, Retrieval-Augmented Generation, Semantic Search and Multimodal Intelligence
+Building  Systems with LLMs, Retrieval-Augmented Generation, Semantic Search and Multimodal Intelligence
 </p>
 
 <p align="center">
