@@ -22,15 +22,8 @@ Building production-grade AI systems powered by LLMs, Retrieval-Augmented Genera
 ---
 ## About Me
 
-I am a GenAI Engineer passionate about building reliable and scalable AI systems that bridge cutting-edge research with real-world applications.
+I am a GenAI Engineer passionate about building intelligent systems capable of retrieving, reasoning, and generating reliable information.
 
-My expertise lies in designing production-grade Retrieval-Augmented Generation (RAG) pipelines, hybrid retrieval systems, and LLM-powered applications that deliver accurate, grounded, and context-aware responses.
-
-I have hands-on experience in semantic search, cross-encoder reranking, LLM orchestration, and hallucination mitigation techniques, with a strong focus on developing trustworthy AI systems.
-
-Beyond model development, I enjoy architecting scalable backend services using FastAPI and modern AI frameworks to transform complex ideas into impactful products.
-
-I am continuously exploring advanced RAG architectures, Agentic AI workflows, and multimodal intelligence to build the next generation of intelligent systems.
 My work primarily focuses on:
 
 - Production-Grade Retrieval-Augmented Generation (RAG)
