@@ -1,118 +1,94 @@
-<h1 align="center"> Durga Prasad Jaiswal</h1>
+<h1 align="center">Hi 👋, I'm Durga Prasad Jaiswal</h1>
+
+<h3 align="center">
+GenAI Engineer | RAG Engineer | FastAPI Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=AI%2FML+Developer;GenAI+Engineer;RAG+Developer;Multimodal+AI+Developer;FastAPI+Backend+Developer;Semantic+Search+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Production-Grade+RAG+Engineer;LLM+Application+Developer;Hybrid+Retrieval+Specialist;FastAPI+Backend+Developer;Building+Reliable+AI+Systems" />
 </p>
 
 <p align="center">
-Building AI Systems with LLMs, Retrieval-Augmented Generation, Semantic Search and Multimodal Intelligence
+Building production-grade AI systems powered by LLMs, Retrieval-Augmented Generation, Semantic Search, and scalable backend architectures.
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dp-jaiswal/">LinkedIn</a> •
 <a href="mailto:dpjaiswal.lkouniv@gmail.com">Email</a> •
+<a href="https://dpjaiiswal-portfolio.vercel.app/">Portfolio</a> •
 <a href="https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf">Research Paper</a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Dpjaiswal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Dpjaiswal&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
-<p align="center">
+# 🚀 About Me
 
-<img src="https://img.shields.io/badge/GenAI-FF6B35?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-0096FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangGraph-5E35B1?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-FF1744?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Multimodal_AI-7B1FA2?style=for-the-badge"/>
-
-</p>
+- 🔭 Currently working as **AIML Software Trainee at Mobcoder AI**
+- 🌱 Building **production-grade RAG pipelines and LLM applications**
+- 🧠 Passionate about **Retrieval Systems, LLM Guardrails and Agentic AI**
+- ⚡ Experienced in **Hybrid Retrieval, Reranking and Semantic Search**
+- 💬 Ask me about **RAG, FastAPI, LangChain, LangGraph and Vector Databases**
 
 ---
 
-# About Me
+# 🔥 Current Focus
 
-I'm an AI/ML Developer and M.Sc. IT (Artificial Intelligence) student at the University of Mumbai.
-
-My work focuses on building intelligent systems powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Semantic Search, Multimodal AI, and scalable backend architectures.
-
-I enjoy developing AI applications that can retrieve, reason, and generate reliable information from complex data sources. Currently, I'm working on production-style AI systems involving retrieval pipelines, reranking strategies, vector databases, and grounded response generation.
-
----
-
-# Current Focus
-
-* Retrieval-Augmented Generation (RAG)
-* Semantic Search & Hybrid Search
-* Multimodal AI Applications
-* Agentic AI Systems
-* FastAPI Backend Development
-* Large Language Models (LLMs)
-* Information Retrieval
-* Explainable AI (XAI)
+- Retrieval-Augmented Generation (RAG)
+- Hybrid Search Systems
+- LLM Guardrails
+- Cross-Encoder Reranking
+- Agentic AI Workflows
+- FastAPI Backend Development
+- Semantic Search
+- Production AI Systems
 
 ---
 
-# Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### AI / Machine Learning
+## Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=fastapi,django" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge" />
-</p>
-
-### GenAI & Retrieval
+## GenAI & Orchestration
 
 <p>
-<img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
+</p>
+
+## Retrieval & Ranking
+
+<p>
 <img src="https://img.shields.io/badge/Semantic_Search-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hybrid_Search-228B22?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cross_Encoder_Reranking-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BM25-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RRF-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cross_Encoder-8A2BE2?style=for-the-badge"/>
 </p>
 
-### Backend & APIs
+## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/Qdrant-EA4335?style=for-the-badge"/>
 </p>
 
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Qdrant_Vector_DB-EA4335?style=for-the-badge" />
-</p>
-
-### Tools
+## Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
@@ -120,20 +96,34 @@ I enjoy developing AI applications that can retrieve, reason, and generate relia
 
 ---
 
-# Featured Projects
+# 💼 Experience
+
+## AIML Software Trainee | Mobcoder AI
+
+- Built production-style RAG pipelines
+- Designed Hybrid Retrieval systems
+- Implemented Cross-Encoder reranking
+- Developed grounded LLM workflows
+- Reduced hallucinations using guardrails
+
+## AI/ML Engineer Intern | Apana Time Tech Solutions
+
+- Developed scalable FastAPI backends
+- Implemented RBAC and authentication
+- Designed optimized database schemas
+- Automated business workflows
+
+---
+
+# 🚀 Featured Projects
 
 ## Hybrid RAG Pipeline for Financial Document Analysis
 
-Built an end-to-end Retrieval-Augmented Generation system for financial document understanding and intelligent question answering.
-
-### Highlights
-
-* Semantic Chunking
-* Metadata-Aware Retrieval
-* Hybrid Search
-* Cross-Encoder Reranking
-* Grounded Response Generation
-* Hallucination Mitigation
+- Metadata-aware retrieval
+- Dense + BM25 Hybrid Search
+- Cross-Encoder Reranking
+- Hallucination mitigation
+- Grounded response generation
 
 **Tech Stack:** FastAPI • LangChain • Qdrant • BM25 • Groq • Llama
 
@@ -141,130 +131,81 @@ Built an end-to-end Retrieval-Augmented Generation system for financial document
 
 ## Legal RAG System
 
-A legal question-answering platform designed using semantic search and hybrid retrieval pipelines to improve contextual relevance and response quality.
+- Dense Retrieval
+- TF-IDF Search
+- RRF Fusion
+- Cross-Encoder Reranking
+- Reliable Answer Generation
 
-### Highlights
+**Tech Stack:** FastAPI • LangChain • InLegalBERT • TF-IDF
 
-* Semantic Search
-* Dense Retrieval
-* TF-IDF Search
-* RRF Fusion
-* Cross-Encoder Reranking
-* Grounded Responses
+---
 
-**Tech Stack:** FastAPI • InLegalBERT • LangChain • TF-IDF • RRF
+## AI-Powered Personalized Learning & Skill Gap Navigator
+
+- Resume Parsing
+- Skill Gap Analysis
+- Career Recommendation
+- RAG-based Career Mentor
+
+**Tech Stack:** FastAPI • FAISS • Groq • Gemini • Scikit-Learn
 
 ---
 
 ## AI for Real-Time Translation of Sign Language
 
-A research-driven Computer Vision project that translates sign language gestures into text and speech in real time.
+Published research work on real-time sign language translation using Computer Vision.
 
-### Highlights
-
-* Real-Time Gesture Recognition
-* MediaPipe Hand Tracking
-* Speech-to-Text Conversion
-* Text-to-Speech Generation
-* Indian Sign Language Support
-
-**Research Publication**
-https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
-
-**Tech Stack:** Python • Flask • OpenCV • MediaPipe • Scikit-Learn • Whisper • Edge-TTS
+**Tech Stack:** Python • OpenCV • MediaPipe • Flask
 
 ---
 
-## AI-Powered Lie Detection System
+# 📊 GitHub Analytics
 
-A multimodal AI system that estimates deception likelihood by analyzing both textual statements and voice signals.
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dpjaiswal&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dpjaiswal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-The system combines NLP and Audio Intelligence through cross-modal learning and explainable AI techniques.
+<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=Dpjaiswal&theme=tokyonight&hide_border=true" />
+</p>
 
-### Highlights
-
-* Text + Voice Analysis
-* Cross-Modal Attention
-* CNN-LSTM Audio Pipeline
-* RoBERTa-based NLP Pipeline
-* Explainable AI using LIME & SHAP
-* Real-Time Dashboard
-* REST APIs & WebSockets
-
-**Tech Stack:** Python • FastAPI • PyTorch • Streamlit • Docker • CNN-LSTM • RoBERTa
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dpjaiswal&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
-# Experience
+# 🏆 GitHub Trophies
 
-### AI/ML Developer Intern | Apana Time Tech Solutions
-
-Working on production-grade AI systems involving Retrieval-Augmented Generation, semantic search, reranking, hybrid retrieval, and LLM-powered applications.
-
-### Python Developer Intern | Mobcoder Technologies
-
-Worked on Django-based applications, backend development, API integration, and database-driven systems.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Dpjaiswal&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-# Research Publication
+# 📚 Research Publication
 
 ### AI for Real-Time Translation of Sign Language
 
-Published in the **International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED)**.
+Published in:
+
+**International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED)**
 
 🔗 https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 
 ---
 
-# Contribution Activity
+# 🎯 2026 Goals
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dpjaiswal\&theme=react-dark)](https://github.com/Dpjaiswal)
-
----
-
-# GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dpjaiswal&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dpjaiswal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Dpjaiswal&theme=tokyonight&hide_border=true" />
-</p>
----
-
-# AI Philosophy
-
-I believe AI systems should not only generate information but also retrieve, validate, and reason over trusted knowledge sources.
-
-My current work focuses on building reliable AI applications that combine retrieval, reasoning, explainability, and real-world usability.
-
----
-
-# 2026 Goals
-
-* Build Production-Grade Agentic AI Systems
-* Master Advanced RAG Architectures
-* Contribute to Open Source AI Projects
-* Publish Additional Research Work
-
----
-
-# Connect With Me
-
-💼 LinkedIn
-https://www.linkedin.com/in/dp-jaiswal/
-
-📧 Email
-[dpjaiswal.lkouniv@gmail.com](mailto:dpjaiswal.lkouniv@gmail.com)
-
-📄 Research Paper
-https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
+- Build enterprise-grade Agentic AI systems
+- Master advanced RAG architectures
+- Contribute to open-source AI projects
+- Publish more research papers
 
 ---
 
 <p align="center">
-<b>Building Intelligent Systems That Create Real-World Impact </b>
+<b>Building Reliable AI Systems for Real-World Impact</b>
 </p>
