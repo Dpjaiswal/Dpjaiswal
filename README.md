@@ -200,15 +200,6 @@ https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 <p align="center">
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dpjaiswal&theme=react-dark&hide_border=true&area=true"/>
 </p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dpjaiswal&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
 ---
 
 ## 2026 Goals
