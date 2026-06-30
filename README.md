@@ -200,7 +200,6 @@ https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
 <p align="center">
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dpjaiswal&theme=react-dark&hide_border=true&area=true"/>
 </p>
----
 
 ## 2026 Goals
 
