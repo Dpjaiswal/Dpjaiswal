@@ -1,5 +1,4 @@
-<h1> Durga Prasad Jaiswal </h1>
-<p align="center">
+<h1 style="text-align: center;">Durga Prasad Jaiswal</h1><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=GenAI+Engineer;Production+RAG+Engineer;FastAPI+Backend+Developer;LLM+Application+Developer;Semantic+Search+Specialist;Building+Reliable+AI+Systems" />
 </p>
 
