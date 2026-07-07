@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Durga Prasad Jaiswal 👋</h1>
+<h1 align="center">Hi, I'm Durga Prasad Jaiswal</h1>
 <h3 align="center">GenAI Engineer • Production RAG Systems • LLM Application Development</h3>
 
 <p align="center">
@@ -18,20 +18,20 @@
 
 ---
 
-### 🎯 About Me
+### About Me
 
 I'm a GenAI Engineer specializing in **production-grade Retrieval-Augmented Generation** — building systems that are accurate, source-cited, and auditable, not just conversational. I work at the intersection of hybrid retrieval, LLM orchestration, and scalable backend engineering to turn research-grade AI techniques into reliable, deployable products.
 
 Currently building RAG pipelines and agentic workflows at **Mobcoder AI**, with hands-on production experience across financial, legal, and career-guidance domains.
 
-- 🔭 Currently focused on: **Advanced RAG architectures & Agentic AI workflows**
-- 🧩 Core strength: turning hallucination-prone LLM systems into **grounded, citation-backed, evaluable pipelines**
-- 🌱 Actively exploring: multi-agent orchestration and deterministic LLM evaluation
-- 📫 Open to GenAI Engineer / ML Engineer / Backend (AI-focused) roles
+- Currently focused on: **Advanced RAG architectures & Agentic AI workflows**
+- Core strength: turning hallucination-prone LLM systems into **grounded, citation-backed, evaluable pipelines**
+- Actively exploring: multi-agent orchestration and deterministic LLM evaluation
+- Open to GenAI Engineer / ML Engineer / Backend (AI-focused) roles
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Backend**
 <p>
@@ -67,7 +67,7 @@ Currently building RAG pipelines and agentic workflows at **Mobcoder AI**, with 
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 **AIML Software Trainee — Mobcoder AI** · *Feb 2026 – Present*
 - Engineer production RAG pipelines: document ingestion, semantic chunking, embedding generation, and vector indexing.
@@ -81,9 +81,9 @@ Currently building RAG pipelines and agentic workflows at **Mobcoder AI**, with 
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🏦 [Financial RAG Copilot (Multi-Entity, Audit-Grade)](#)
+#### [Financial RAG Copilot (Multi-Entity, Audit-Grade)](#)
 A six-layer, audit-grade RAG system for 10-K/10-Q financial filings — built for accuracy and traceability, not just fluency.
 - Hybrid search engine (dense `qwen3-embedding:4b` + BM25 sparse + RRF) with metadata filtering for multi-company comparison.
 - Two-stage retrieval with `BGE-Reranker-Base` cross-encoder reranking.
@@ -92,7 +92,7 @@ A six-layer, audit-grade RAG system for 10-K/10-Q financial filings — built fo
 
 `FastAPI` `LangChain` `Qdrant` `BM25` `Groq` `BGE-Reranker` `PostgreSQL`
 
-#### ⚖️ [Legal Judgment RAG System](#)
+#### [Legal Judgment RAG System](#)
 A modular legal question-answering system built to answer strictly from retrieved context — never from model memory.
 - Dense (Qdrant) + TF-IDF sparse scoring + cross-encoder reranking with score normalization.
 - Threshold-based fallback returns "Not found" instead of guessing, cutting hallucination risk at the source.
@@ -100,7 +100,7 @@ A modular legal question-answering system built to answer strictly from retrieve
 
 `FastAPI` `Qdrant` `InLegalBERT` `TF-IDF` `RRF` `Cross-Encoder`
 
-#### 🎓 [AI-Powered Personalized Learning & Skill Gap Navigator](#)
+#### [AI-Powered Personalized Learning & Skill Gap Navigator](#)
 An end-to-end career guidance platform combining classical ML and RAG.
 - Resume parsing + automated skill-gap analysis + personalized learning roadmaps.
 - Random Forest for career path prediction, K-Means clustering for user persona segmentation.
@@ -108,7 +108,7 @@ An end-to-end career guidance platform combining classical ML and RAG.
 
 `FastAPI` `FAISS` `Scikit-learn` `LangChain` `Groq`
 
-#### 🤟 [AI for Real-Time Sign Language Translation](#)
+#### [AI for Real-Time Sign Language Translation](#)
 Real-time gesture recognition and translation system, published as peer-reviewed research.
 - Hand tracking and gesture recognition using MediaPipe and OpenCV.
 - Text-to-speech integration for real-time, accessible communication.
@@ -118,15 +118,15 @@ Real-time gesture recognition and translation system, published as peer-reviewed
 
 ---
 
-### 📄 Research Publication
+### Research Publication
 
 **AI for Real-Time Translation of Sign Language**
 *International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED)* — Dec 2025
-🔗 [Read the paper](https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf)
+[Read the paper](https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf)
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dpjaiswal&theme=tokyonight" />
@@ -143,7 +143,7 @@ Real-time gesture recognition and translation system, published as peer-reviewed
 
 ---
 
-### 🎯 2026 Goals
+### 2026 Goals
 
 - Ship enterprise-grade agentic AI systems in production
 - Deepen expertise in deterministic RAG evaluation and guardrails
