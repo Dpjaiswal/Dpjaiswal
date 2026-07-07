@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- production-grade AI systems powered by LLMs, Retrieval-Augmented Generation, Agentic AI, and scalable backend architectures.
+Building production-grade AI systems powered by LLMs, Retrieval-Augmented Generation, Agentic AI, and scalable backend architectures.
 </p>
 
 <p align="center">
