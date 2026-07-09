@@ -129,9 +129,12 @@ Real-time gesture recognition and translation system, published as peer-reviewed
 ### GitHub Analytics
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dpjaiswal&theme=tokyonight" />
-  <img width="32%" src="https://streak-stats.demolab.com?user=Dpjaiswal&theme=tokyonight&hide_border=true" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dpjaiswal&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dpjaiswal&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dpjaiswal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Dpjaiswal&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
