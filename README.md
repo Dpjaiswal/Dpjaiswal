@@ -134,11 +134,10 @@ Real-time gesture recognition and translation system, published as peer-reviewed
 </p>
 
 <p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=Dpjaiswal&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dpjaiswal&theme=react-dark&hide_border=true&area=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Dpjaiswal&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
