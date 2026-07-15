@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Durga Prasad Jaiswal</h1>
-<h3 align="center">GenAI Engineer • Production RAG Systems •  Application Development</h3>
+<h3 align="center">GenAI Engineer • Production RAG Systems • LLM Application Development</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Production-Grade+RAG+Pipelines;Hybrid+Retrieval+%2B+Cross-Encoder+Reranking;LLM+Guardrails+%26+Hallucination+Mitigation;FastAPI+%2B+LangChain+%2B+Qdrant" />
