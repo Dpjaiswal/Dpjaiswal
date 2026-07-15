@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Durga Prasad Jaiswal</h1>
+<h1 align="center">Hi, I'm Durga Prasad </h1>
 <h3 align="center">GenAI Engineer • Production RAG Systems • LLM Application Development</h3>
 
 <p align="center">
