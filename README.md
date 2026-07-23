@@ -2,14 +2,27 @@
 <h3 align="center">GenAI Engineer • Production RAG Systems • Agentic AI • LLM Application Development</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Production-Grade+RAG+Pipelines;Hybrid+Retrieval+%2B+Cross-Encoder+Reranking;Agentic+AI+Workflows+with+LangGraph;LLM+Guardrails+%26+Hallucination+Mitigation;Healthcare+AI+%7C+Legal+AI+%7C+Financial+AI;FastAPI+%2B+LangChain+%2B+Qdrant+%2B+Docker" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Production-Grade+RAG+Pipelines;Agentic+AI+%7C+Multi-Agent+Systems;Hybrid+Retrieval+%2B+Cross-Encoder+Reranking;FastAPI+%2B+LangGraph+%2B+LangChain;Grounded+LLMs+with+Near-Zero+Hallucination;Scalable+Backend+Engineering;Enterprise+AI+Applications" />
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dp-jaiswal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:dpjaiswal.lkouniv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://dpjaiiswal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf"><img src="https://img.shields.io/badge/Research_Paper-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/dp-jaiswal/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dpjaiswal.lkouniv@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://dpjaiiswal-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf">
+<img src="https://img.shields.io/badge/Research_Paper-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
@@ -20,41 +33,52 @@
 
 # About Me
 
-I'm a **GenAI Engineer** focused on building **production-grade Retrieval-Augmented Generation (RAG)** systems, **Agentic AI workflows**, and scalable backend architectures. My work revolves around making Large Language Models reliable through hybrid retrieval, deterministic evaluation, citation-backed generation, and robust guardrails.
+I'm a **GenAI Engineer** specializing in **production-grade Retrieval-Augmented Generation (RAG)** systems, **Agentic AI**, and scalable backend engineering.
 
-Currently working as an **AIML Software Trainee at Mobcoder AI**, where I develop enterprise AI systems across **Healthcare, Legal, and Financial** domains using LangGraph, FastAPI, Docker, and modern vector databases.
+I build enterprise AI applications that are **grounded, auditable, source-cited, deterministic, and production-ready** rather than simple chatbot demos.
 
-### What I Do
+My work focuses on combining **LLMs, Hybrid Retrieval, LangGraph workflows, FastAPI microservices, vector databases, and intelligent orchestration** to solve real-world business problems across healthcare, finance, legal-tech, and enterprise automation.
 
-- Build production-ready RAG pipelines
-- Design hybrid retrieval systems (Dense + Sparse)
-- Develop multi-agent AI workflows using LangGraph
-- Engineer scalable backend APIs with FastAPI
-- Build deterministic evaluation pipelines
-- Reduce hallucinations using grounded generation & guardrails
-- Develop enterprise AI microservices with Docker, Celery & Redis
+Currently working at **Mobcoder AI**, where I design production AI systems involving multi-agent orchestration, hybrid retrieval pipelines, deterministic evaluation, and scalable backend services.
+
+### Current Focus
+
+- Production RAG Pipelines
+- Agentic AI
+- LangGraph Workflows
+- Multi-Agent Systems
+- Hybrid Search
+- Enterprise AI Architecture
+- LLM Guardrails
+- Hallucination Reduction
+- Deterministic Evaluation
+- FastAPI Backend Development
 
 ---
 
 # Tech Stack
 
-## Languages & Backend
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
 </p>
-
-**Backend Skills**
-
-- REST APIs
-- Scalable Backend Design
-- SQLAlchemy
-- Async Programming
-- Event-Driven Architecture
 
 ---
 
-## GenAI & LLM
+## Backend Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask"/>
+
+</p>
+
+---
+
+## GenAI • RAG • LLM
 
 <p>
 
@@ -66,27 +90,41 @@ Currently working as an **AIML Software Trainee at Mobcoder AI**, where I develo
 
 <img src="https://img.shields.io/badge/LangSmith-FF6B35?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Hybrid_Search-228B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic_AI-009688?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Semantic_Search-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi_Agent-A020F0?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/LLM_Guardrails-008080?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Semantic_Search-008B8B?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Hybrid_Search-228B22?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/BM25-FF5722?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/TF--IDF-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/TF--IDF-E91E63?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Cross_Encoder_Reranking-8A2BE2?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/BGE_Reranker-6A5ACD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cosine_Similarity-7B68EE?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/RRF-0A66C2?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/LLM_Guardrails-E91E63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cross_Encoder-8A2BE2?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/BGE_Reranker-4CAF50?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/SentenceTransformers-FF9800?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/InLegalBERT-3F51B5?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square"/>
 
 </p>
 
 ---
 
-## AI / Machine Learning
+## Machine Learning & Computer Vision
 
 <p>
 
@@ -98,219 +136,229 @@ Currently working as an **AIML Software Trainee at Mobcoder AI**, where I develo
 
 <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/SentenceTransformers-2196F3?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/InLegalBERT-795548?style=flat-square"/>
-
 </p>
 
 ---
 
-## Databases & Infrastructure
+## Databases
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
 
-<img src="https://img.shields.io/badge/Qdrant-EA4335?style=flat-square"/>
+<img src="https://img.shields.io/badge/Qdrant_Vector_DB-EA4335?style=flat-square"/>
 
 </p>
 
 ---
 
-## AI Tools & Platforms
+## Backend & Infrastructure
 
-- Groq API
-- Ollama
-- LangSmith
-- PyPDFLoader
-- Metadata Extraction
-- Text Chunking
-- PDF Parsing
-- Vector Embeddings
-- Docker
-- Celery
-- Redis
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PDF_Parsing-795548?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PyPDFLoader-2196F3?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Metadata_Extraction-607D8B?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Text_Chunking-3F51B5?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Data_Preprocessing-4CAF50?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/SSE-FF9800?style=flat-square"/>
+
+</p>
 
 ---
 
 # Professional Experience
 
 ## AIML Software Trainee — Mobcoder AI
-
 **Feb 2026 – Present**
 
-### Responsibilities
+- Architected **multi-agent orchestrated workflows using LangGraph** to automate complex enterprise decision-making processes, including real-time clinical triage.
 
-- Architect production-grade RAG pipelines for enterprise AI applications.
-- Build hybrid retrieval systems using Dense Retrieval, BM25, and Cross-Encoder Reranking.
-- Design multi-agent workflows using LangGraph for healthcare and enterprise automation.
-- Develop deterministic LLM pipelines with strict safety guardrails.
-- Build event-driven AI microservices using Docker, Celery, and Redis.
-- Integrate Vision OCR pipelines into enterprise AI workflows.
-- Optimize semantic chunking, embedding generation, and vector indexing.
-- Deliver scalable FastAPI backend services with sub-second response times.
+- Developed deterministic LLM response systems with strict safety guardrails and grounding strategies, reducing hallucination risk in healthcare and enterprise environments.
+
+- Designed advanced Hybrid Search architectures (Dense + Sparse Retrieval) integrated with Cross-Encoder reranking for improved Top-K retrieval precision.
+
+- Built scalable production RAG pipelines involving semantic chunking, embedding generation, vector indexing, metadata extraction, and enterprise document retrieval.
+
+- Deployed event-driven microservices using **Celery, Redis, and Docker**, enabling asynchronous AI workloads while maintaining sub-second API latency.
+
+- Integrated Vision OCR pipelines with backend AI workflows for intelligent document understanding.
 
 ---
 
 ## AI/ML Engineer Intern — Apana Time Tech Solutions
-
 **Oct 2025 – Jan 2026**
 
-### Responsibilities
+- Developed scalable backend REST APIs using Python and FastAPI.
 
-- Developed scalable backend APIs using Python and FastAPI.
-- Implemented Role-Based Access Control (RBAC).
-- Designed SQLAlchemy database schemas.
-- Built workflow automation systems.
-- Collaborated with frontend teams for dashboard integration.
+- Implemented secure Role-Based Access Control (RBAC) and authentication.
+
+- Designed optimized SQLAlchemy database schemas for efficient storage and reporting.
+
+- Collaborated with frontend teams to integrate real-time dashboards and workflow automation.
 
 ---
 
 # Featured Projects
 
----
-
 ## Intelligent Clinical Triage & Decision Support System
 
-Enterprise healthcare platform combining multi-agent AI, RAG, OCR, and deterministic decision support.
+A production-grade healthcare AI platform built using **Agentic AI, LangGraph, FastAPI, RAG, Vision AI, and event-driven microservices** to automate clinical triage and support medical decision-making.
 
-### Highlights
+### Key Highlights
 
-- Multi-agent workflow using LangGraph
-- Vision OCR pipeline
-- Clinical symptom extraction
-- Stateful routing
-- Deterministic severity scoring
-- Healthcare RAG knowledge retrieval
-- Event-driven architecture
-- Docker + Celery + Redis
-- Sub-second API latency
+- Architected a distributed digital triage platform with **stateful routing** and **tokenized access**, automating healthcare data ingestion while reducing manual administrative effort.
 
-**Tech Stack**
+- Implemented a **Vision OCR parsing pipeline** that extracts unstructured medical image data and serializes it into validated JSON schemas, significantly accelerating downstream validation.
 
+- Engineered a **multi-agent LangGraph workflow** utilizing constrained state machines for automated clinical decision support and deterministic severity scoring.
+
+- Developed a localized **Retrieval-Augmented Generation (RAG)** system using **1024-dimensional embeddings** to accurately map unstructured clinical symptoms into standardized diagnostic codes.
+
+- Orchestrated an **event-driven microservices architecture** with strict LLM guardrails for asynchronous ML processing while maintaining **sub-second API latency** and minimizing hallucinations.
+
+### Tech Stack
+
+`Python`
 `FastAPI`
 `LangGraph`
-`Docker`
+`RAG`
+`Qdrant`
 `Redis`
 `Celery`
-`PostgreSQL`
-`Groq`
-`Qdrant`
+`Docker`
+`Vision OCR`
+`LLMs`
 
 ---
 
-## Financial RAG Copilot (Audit Grade)
+## Hybrid Financial RAG Pipeline
 
-Enterprise AI assistant for SEC filings with deterministic financial reasoning.
+Enterprise-grade Financial AI system designed for auditability, grounded reasoning, deterministic evaluation, and intelligent financial document analysis.
 
-### Features
+### Key Highlights
 
-- Six-layer production RAG architecture
-- Multi-entity financial analysis
-- Hybrid Search (Dense + BM25)
-- Reciprocal Rank Fusion
-- Cross Encoder Reranking
-- 8 specialized AI intent tools
-- Deterministic financial evaluation
-- Regex fallback mechanisms
-- SSE Streaming
-- PostgreSQL Audit Logs
-- Citation-backed responses
+- Architected a **stateful Financial RAG platform** using LangGraph and FastAPI, orchestrating **8 specialized AI Intent Tools** for intelligent SEC filing analysis.
 
-**Tech Stack**
+- Engineered a **Two-Stage Hybrid Search** pipeline combining **Dense Vector Search (Qdrant)** and **BM25 Sparse Retrieval**, followed by **Cross-Encoder Reranking**, improving Top-10 retrieval accuracy for financial tables.
+
+- Developed a deterministic mathematical evaluation layer to verify generated financial calculations, eliminating dependency on subjective **LLM-as-a-Judge** approaches.
+
+- Designed heuristic **Regex-based fallback mechanisms** for LLM intent routing, preventing JSON parsing failures and ensuring uninterrupted production execution.
+
+- Implemented **Server-Sent Events (SSE)** streaming architecture delivering sub-second Time-to-First-Token (TTFT) with persistent PostgreSQL state management.
+
+### Tech Stack
 
 `FastAPI`
 `LangGraph`
 `LangChain`
-`Groq`
 `Qdrant`
 `BM25`
-`BGE-Reranker`
+`Cross Encoder`
+`Groq`
 `PostgreSQL`
+`SSE`
 
 ---
 
 ## Legal Judgment RAG System
 
-Production-ready Legal AI assistant built for reliable legal document retrieval.
+Enterprise Legal AI system capable of answering legal questions strictly from retrieved legal judgments with complete source grounding.
 
-### Features
+### Key Highlights
 
-- Hybrid Dense + Sparse Retrieval
-- InLegalBERT Embeddings
-- Cross Encoder Reranking
-- TF-IDF Search
-- FastAPI Backend
-- React Frontend
-- Groq Llama
-- 12-Factor Architecture
-- Zero Hardcoded Configuration
-- Source Transparency
-- Real-time Latency Monitoring
+- Built a Legal AI platform using **FastAPI** and **React**, reducing overall query response latency through Groq-powered LLM inference.
 
-**Tech Stack**
+- Engineered an advanced **Hybrid Retrieval** pipeline using **Qdrant**, TF-IDF scoring, Reciprocal Rank Fusion (RRF), and Cross-Encoder reranking.
+
+- Developed an automated NLP ingestion pipeline with coherence filtering, improving indexed document quality before vectorization.
+
+- Enforced **12-Factor Application Architecture** with zero hardcoded configurations for production-ready deployments.
+
+- Built a responsive Legal Chat interface featuring real-time latency monitoring and source transparency to improve user trust.
+
+### Tech Stack
 
 `FastAPI`
-
 `React`
-
-`Groq`
-
 `Qdrant`
-
 `InLegalBERT`
-
 `TF-IDF`
-
+`RRF`
 `Cross Encoder`
+`Groq`
 
 ---
 
 ## AI-Powered Personalized Learning & Skill Gap Navigator
 
-Career guidance platform powered by Machine Learning and RAG.
+A complete AI career guidance platform that combines Machine Learning, Resume Intelligence, Recommendation Systems, and RAG.
 
-### Features
+### Key Highlights
 
-- Resume Parsing
-- Skill Gap Analysis
-- Personalized Learning Roadmaps
-- Career Prediction
-- User Segmentation
-- AI Career Mentor
-- Interview Preparation
+- Automated Resume Parsing with intelligent skill extraction.
 
-**Tech Stack**
+- Built AI-powered Skill Gap Analysis for personalized learning recommendations.
 
+- Implemented Random Forest models for career prediction.
+
+- Applied K-Means clustering for learner segmentation.
+
+- Integrated an AI Career Mentor powered by Retrieval-Augmented Generation.
+
+- Generated personalized learning roadmaps and interview preparation assistance.
+
+### Tech Stack
+
+`Python`
 `FastAPI`
-
-`FAISS`
-
-`LangChain`
-
+`Scikit-Learn`
 `Random Forest`
-
 `K-Means`
-
+`FAISS`
+`LangChain`
 `Groq`
 
 ---
 
-## AI for Real-Time Sign Language Translation
+## AI for Real-Time Translation of Sign Language
 
-Published research project focused on accessible communication.
+Published research project focused on improving communication accessibility through Computer Vision.
 
-### Features
+### Key Highlights
 
-- Real-time Hand Tracking
-- Gesture Recognition
-- Text-to-Speech
-- OpenCV
-- MediaPipe
-- Flask
+- Real-time hand landmark detection using **MediaPipe**.
 
-Published in **IJAMRED (Dec 2025)**
+- Gesture recognition using **OpenCV**.
+
+- Live Sign-to-Text Translation.
+
+- Integrated Text-to-Speech for accessible communication.
+
+- Published in **International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED).**
+
+### Tech Stack
+
+`Python`
+`OpenCV`
+`MediaPipe`
+`Flask`
 
 ---
 
@@ -318,19 +366,11 @@ Published in **IJAMRED (Dec 2025)**
 
 ## AI for Real-Time Translation of Sign Language
 
+Published in:
+
 **International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED)**
 
-Published: **December 2025**
-
 📄 https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf
-
----
-
-# Certifications
-
-- Build RAG Systems: Generative AI & LangChain Mastery
-- Python & Django Framework Complete Course
-- Ultimate MySQL Crash Course
 
 ---
 
@@ -352,20 +392,83 @@ Published: **December 2025**
 
 ---
 
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dpjaiswal&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dpjaiswal&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# Current Learning
+
+- Agentic AI Systems
+- LangGraph Production Workflows
+- Multi-Agent Collaboration
+- Enterprise RAG Architectures
+- Deterministic AI Evaluation
+- Hallucination Mitigation
+- AI Guardrails
+- Knowledge Graph RAG
+- Event-Driven AI Systems
+- Distributed AI Microservices
+
+---
+
 # 2026 Goals
 
-- Build enterprise-scale Agentic AI systems
-- Master advanced RAG evaluation
-- Publish more AI research papers
-- Contribute to open-source GenAI projects
-- Deepen expertise in distributed AI systems
-- Build reliable healthcare AI products
-- Explore multimodal AI architectures
+- Build enterprise-scale AI systems used in production.
+
+- Contribute to Open Source GenAI projects.
+
+- Publish additional AI research papers.
+
+- Deepen expertise in Agentic AI and Multi-Agent architectures.
+
+- Design highly reliable RAG systems with deterministic evaluation.
+
+- Build scalable AI backend infrastructures.
+
+---
+
+# Let's Connect
+
+<p align="center">
+
+<a href="mailto:dpjaiswal.lkouniv@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dp-jaiswal/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dpjaiswal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://dpjaiiswal-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
 
-<b>Building reliable AI systems that are grounded, auditable, scalable, and production-ready.</b>
+### ⭐ Building reliable AI systems — Grounded • Auditable • Production Ready ⭐
 
 </p>
