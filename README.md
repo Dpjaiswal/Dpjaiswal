@@ -392,16 +392,6 @@ Published in:
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dpjaiswal&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # Contribution Graph
 
 <p align="center">
