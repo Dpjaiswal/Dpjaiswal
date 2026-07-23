@@ -188,15 +188,10 @@ Currently working at **Mobcoder AI**, where I design production AI systems invol
 **Feb 2026 – Present**
 
 - Architected **multi-agent orchestrated workflows using LangGraph** to automate complex enterprise decision-making processes, including real-time clinical triage.
-
 - Developed deterministic LLM response systems with strict safety guardrails and grounding strategies, reducing hallucination risk in healthcare and enterprise environments.
-
 - Designed advanced Hybrid Search architectures (Dense + Sparse Retrieval) integrated with Cross-Encoder reranking for improved Top-K retrieval precision.
-
 - Built scalable production RAG pipelines involving semantic chunking, embedding generation, vector indexing, metadata extraction, and enterprise document retrieval.
-
 - Deployed event-driven microservices using **Celery, Redis, and Docker**, enabling asynchronous AI workloads while maintaining sub-second API latency.
-
 - Integrated Vision OCR pipelines with backend AI workflows for intelligent document understanding.
 
 ---
@@ -205,11 +200,8 @@ Currently working at **Mobcoder AI**, where I design production AI systems invol
 **Oct 2025 – Jan 2026**
 
 - Developed scalable backend REST APIs using Python and FastAPI.
-
 - Implemented secure Role-Based Access Control (RBAC) and authentication.
-
 - Designed optimized SQLAlchemy database schemas for efficient storage and reporting.
-
 - Collaborated with frontend teams to integrate real-time dashboards and workflow automation.
 
 ---
@@ -223,13 +215,9 @@ A production-grade healthcare AI platform built using **Agentic AI, LangGraph, F
 ### Key Highlights
 
 - Architected a distributed digital triage platform with **stateful routing** and **tokenized access**, automating healthcare data ingestion while reducing manual administrative effort.
-
 - Implemented a **Vision OCR parsing pipeline** that extracts unstructured medical image data and serializes it into validated JSON schemas, significantly accelerating downstream validation.
-
 - Engineered a **multi-agent LangGraph workflow** utilizing constrained state machines for automated clinical decision support and deterministic severity scoring.
-
 - Developed a localized **Retrieval-Augmented Generation (RAG)** system using **1024-dimensional embeddings** to accurately map unstructured clinical symptoms into standardized diagnostic codes.
-
 - Orchestrated an **event-driven microservices architecture** with strict LLM guardrails for asynchronous ML processing while maintaining **sub-second API latency** and minimizing hallucinations.
 
 ### Tech Stack
@@ -254,13 +242,9 @@ Enterprise-grade Financial AI system designed for auditability, grounded reasoni
 ### Key Highlights
 
 - Architected a **stateful Financial RAG platform** using LangGraph and FastAPI, orchestrating **8 specialized AI Intent Tools** for intelligent SEC filing analysis.
-
 - Engineered a **Two-Stage Hybrid Search** pipeline combining **Dense Vector Search (Qdrant)** and **BM25 Sparse Retrieval**, followed by **Cross-Encoder Reranking**, improving Top-10 retrieval accuracy for financial tables.
-
 - Developed a deterministic mathematical evaluation layer to verify generated financial calculations, eliminating dependency on subjective **LLM-as-a-Judge** approaches.
-
 - Designed heuristic **Regex-based fallback mechanisms** for LLM intent routing, preventing JSON parsing failures and ensuring uninterrupted production execution.
-
 - Implemented **Server-Sent Events (SSE)** streaming architecture delivering sub-second Time-to-First-Token (TTFT) with persistent PostgreSQL state management.
 
 ### Tech Stack
@@ -284,13 +268,9 @@ Enterprise Legal AI system capable of answering legal questions strictly from re
 ### Key Highlights
 
 - Built a Legal AI platform using **FastAPI** and **React**, reducing overall query response latency through Groq-powered LLM inference.
-
 - Engineered an advanced **Hybrid Retrieval** pipeline using **Qdrant**, TF-IDF scoring, Reciprocal Rank Fusion (RRF), and Cross-Encoder reranking.
-
 - Developed an automated NLP ingestion pipeline with coherence filtering, improving indexed document quality before vectorization.
-
 - Enforced **12-Factor Application Architecture** with zero hardcoded configurations for production-ready deployments.
-
 - Built a responsive Legal Chat interface featuring real-time latency monitoring and source transparency to improve user trust.
 
 ### Tech Stack
@@ -313,15 +293,10 @@ A complete AI career guidance platform that combines Machine Learning, Resume In
 ### Key Highlights
 
 - Automated Resume Parsing with intelligent skill extraction.
-
 - Built AI-powered Skill Gap Analysis for personalized learning recommendations.
-
 - Implemented Random Forest models for career prediction.
-
 - Applied K-Means clustering for learner segmentation.
-
 - Integrated an AI Career Mentor powered by Retrieval-Augmented Generation.
-
 - Generated personalized learning roadmaps and interview preparation assistance.
 
 ### Tech Stack
@@ -344,13 +319,9 @@ Published research project focused on improving communication accessibility thro
 ### Key Highlights
 
 - Real-time hand landmark detection using **MediaPipe**.
-
 - Gesture recognition using **OpenCV**.
-
 - Live Sign-to-Text Translation.
-
 - Integrated Text-to-Speech for accessible communication.
-
 - Published in **International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED).**
 
 ### Tech Stack
@@ -420,15 +391,10 @@ Published in:
 # 2026 Goals
 
 - Build enterprise-scale AI systems used in production.
-
 - Contribute to Open Source GenAI projects.
-
 - Publish additional AI research papers.
-
 - Deepen expertise in Agentic AI and Multi-Agent architectures.
-
 - Design highly reliable RAG systems with deterministic evaluation.
-
 - Build scalable AI backend infrastructures.
 
 ---
