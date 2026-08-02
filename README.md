@@ -349,9 +349,9 @@ Published in:
 
 <p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dpjaiswal&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Dpjaiswal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dpjaiswal&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Dpjaiswal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
