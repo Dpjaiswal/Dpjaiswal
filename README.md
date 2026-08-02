@@ -357,7 +357,7 @@ Published in:
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Dpjaiswal&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Dpjaiswal&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata"/>
 
 </p>
 
