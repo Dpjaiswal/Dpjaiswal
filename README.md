@@ -1,6 +1,5 @@
 <h1 align="center">Durga Prasad Jaiswal</h1>
 <h3 align="center">GenAI Engineer • Production RAG Systems • Agentic AI • LLM Application Development</h3>
-<p align="center">Noida, India &nbsp;|&nbsp; +91 9161185629 &nbsp;|&nbsp; dpjaiswal.lkouniv@gmail.com</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Production-Grade+RAG+Pipelines;Agentic+AI+%7C+Multi-Agent+Systems;Hybrid+Retrieval+%2B+Cross-Encoder+Reranking;FastAPI+%2B+LangGraph+%2B+LangChain;Grounded+LLMs+with+Near-Zero+Hallucination;Scalable+Backend+Engineering;Enterprise+AI+Applications" />
@@ -145,13 +144,6 @@ Enterprise Legal AI system capable of answering legal questions strictly from re
 
 - **University of Mumbai** — M.Sc. IT (Artificial Intelligence) | 2024 – 2026
 - **Goel Institute of Higher Studies and Management** — B.C.A. | 2020 – 2023
-
----
-
-# Certifications
-
-- **Build RAG Systems: Generative AI & LangChain Mastery** — Udemy
-- **The Ultimate MySQL Crash Course** — Udemy
 
 ---
 
