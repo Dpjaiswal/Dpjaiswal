@@ -166,14 +166,6 @@ Enterprise Legal AI system capable of answering legal questions strictly from re
 
 ---
 
-## 🎯 Python Developer Exam Question Set (260 Solved Questions)
-
-Complete, senior-level production solutions, algorithmic implementations, and architectural interview prep guides for **260 exam questions**.
-
-- 🔗 **Repository**: [260 Solved Questions Repo](https://github.com/Dpjaiswal/important-questions)
-
----
-
 ## 🎓 AI-Powered Personalized Learning & Skill Gap Navigator
 
 A complete AI career guidance platform that combines Machine Learning, Resume Intelligence, Recommendation Systems, and RAG.
