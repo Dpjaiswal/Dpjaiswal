@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Durga Prasad Jaiswal 👋</h1>
+<h1 align="center">Hi, I'm Durga Prasad Jaiswal</h1>
 <h3 align="center">GenAI Engineer • Production RAG Systems • Agentic AI • LLM Application Development</h3>
 
 <p align="center">
@@ -17,14 +17,14 @@
 </p>
 
 <p align="center">
-  ⚡ <b>4+ Production RAG Systems</b> &nbsp;|&nbsp; 
-  📈 <b>40% Retrieval Accuracy Gain</b> (Hybrid + Cross-Encoder) &nbsp;|&nbsp; 
-  📄 <b>Published AI Research Paper</b>
+  <b>4+ Production RAG Systems</b> &nbsp;|&nbsp; 
+  <b>40% Retrieval Accuracy Gain</b> (Hybrid + Cross-Encoder) &nbsp;|&nbsp; 
+  <b>Published AI Research Paper</b>
 </p>
 
 ---
 
-# 💡 About Me
+# About Me
 
 I'm a **GenAI Engineer** specializing in **production-grade Retrieval-Augmented Generation (RAG)** systems, **Agentic AI**, and scalable backend engineering.
 
@@ -46,16 +46,16 @@ Currently working at **Mobcoder AI**, where I design production AI systems invol
 
 ---
 
-# 🛠️ Tech Stack & Badges
+# Tech Stack & Badges
 
-### 🐍 Languages & Backend Frameworks
+### Languages & Backend Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🧠 GenAI, RAG & Agentic Frameworks
+### GenAI, RAG & Agentic Frameworks
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF4F00?style=for-the-badge&logo=diagram&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-D13253?style=for-the-badge&logo=qdrant&logoColor=white)
@@ -65,13 +65,13 @@ Currently working at **Mobcoder AI**, where I design production AI systems invol
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![SentenceTransformers](https://img.shields.io/badge/Cross_Encoder_Reranker-8A2BE2?style=for-the-badge)
 
-### 💾 Databases & Asynchronous Architecture
+### Databases & Asynchronous Architecture
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
 
-### ⚙️ DevOps & ML Tools
+### DevOps & ML Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -80,7 +80,7 @@ Currently working at **Mobcoder AI**, where I design production AI systems invol
 
 ---
 
-# 📐 Production RAG Architecture Flow
+# Production RAG Architecture Flow
 
 ```mermaid
 graph LR
@@ -93,7 +93,7 @@ graph LR
 
 ---
 
-# 💼 Work Experience
+# Work Experience
 
 ## GenAI Engineer — Mobcoder AI
 **Jan 2026 – Present**
@@ -116,13 +116,13 @@ graph LR
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🏥 Intelligent Clinical Triage & Decision Support System
+## Intelligent Clinical Triage & Decision Support System
 
 A production-grade healthcare AI platform built using **Agentic AI, LangGraph, FastAPI, RAG, Vision AI, and event-driven microservices** to automate clinical triage and support medical decision-making.
 
-- 🔗 **Repository**: [Clinical Triage RAG System](https://github.com/Dpjaiswal)
+- **Repository**: [Clinical Triage RAG System](https://github.com/Dpjaiswal)
 
 ### Key Highlights
 
@@ -134,11 +134,11 @@ A production-grade healthcare AI platform built using **Agentic AI, LangGraph, F
 
 ---
 
-## 📈 Hybrid Financial RAG Pipeline
+## Hybrid Financial RAG Pipeline
 
 Enterprise-grade Financial AI system designed for auditability, grounded reasoning, deterministic evaluation, and intelligent financial document analysis.
 
-- 🔗 **Repository**: [Hybrid Financial RAG](https://github.com/Dpjaiswal)
+- **Repository**: [Hybrid Financial RAG](https://github.com/Dpjaiswal)
 
 ### Key Highlights
 
@@ -150,11 +150,11 @@ Enterprise-grade Financial AI system designed for auditability, grounded reasoni
 
 ---
 
-## ⚖️ Legal Judgment RAG System
+## Legal Judgment RAG System
 
 Enterprise Legal AI system capable of answering legal questions strictly from retrieved legal judgments with complete source grounding.
 
-- 🔗 **Repository**: [Legal Judgment RAG](https://github.com/Dpjaiswal)
+- **Repository**: [Legal Judgment RAG](https://github.com/Dpjaiswal)
 
 ### Key Highlights
 
@@ -166,33 +166,33 @@ Enterprise Legal AI system capable of answering legal questions strictly from re
 
 ---
 
-## 🎓 AI-Powered Personalized Learning & Skill Gap Navigator
+## AI-Powered Personalized Learning & Skill Gap Navigator
 
 A complete AI career guidance platform that combines Machine Learning, Resume Intelligence, Recommendation Systems, and RAG.
 
-- 🔗 **Repository**: [AI Learning Navigator](https://github.com/Dpjaiswal)
+- **Repository**: [AI Learning Navigator](https://github.com/Dpjaiswal)
 
 ---
 
-## 🖐️ AI for Real-Time Translation of Sign Language
+## AI for Real-Time Translation of Sign Language
 
 Published research project focused on improving communication accessibility through Computer Vision.
 
-- 📄 **Research Paper**: [View Published IJAMRED Paper](https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf)
+- **Research Paper**: [View Published IJAMRED Paper](https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf)
 
 ---
 
-# 📄 Research Publication
+# Research Publication
 
 ## AI for Real-Time Translation of Sign Language
 
 Published in: **International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED)**
 
-📄 **Paper Link**: [https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf](https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf)
+**Paper Link**: [https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf](https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf)
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dpjaiswal&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -205,7 +205,7 @@ Published in: **International Journal of Advanced Multidisciplinary Research and
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dpjaiswal&theme=tokyo-night" />
@@ -213,7 +213,7 @@ Published in: **International Journal of Advanced Multidisciplinary Research and
 
 ---
 
-# 🧠 Current Learning
+# Current Learning
 
 - Agentic AI Systems & Multi-Agent Orchestration
 - LangGraph Production Workflows & Stateful Routing
@@ -223,7 +223,7 @@ Published in: **International Journal of Advanced Multidisciplinary Research and
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Goals
 
 - Build enterprise-scale AI systems used in production.
 - Contribute to Open Source GenAI projects.
@@ -233,7 +233,7 @@ Published in: **International Journal of Advanced Multidisciplinary Research and
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <p align="center">
   <a href="mailto:dpjaiswal.lkouniv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -244,5 +244,5 @@ Published in: **International Journal of Advanced Multidisciplinary Research and
 ---
 
 <p align="center">
-  <b>⭐ Building reliable AI systems — Grounded • Auditable • Production Ready ⭐</b>
+  <b>Building reliable AI systems — Grounded • Auditable • Production Ready</b>
 </p>
