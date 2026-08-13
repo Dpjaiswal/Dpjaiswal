@@ -17,17 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Achievement-Pull_Shark_🦈-0A66C2?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/GitHub_Achievement-YOLO_🎲-8A2BE2?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/GitHub_Achievement-Pair_Extraordinaire_👯-228B22?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/GitHub_Achievement-Quickdraw_🎯-D13253?style=for-the-badge&logo=github"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dpjaiswal&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" />
-</p>
-
-<p align="center">
   <b>4+ Production RAG Systems</b> &nbsp;|&nbsp; 
   <b>40% Retrieval Accuracy Gain</b> (Hybrid + Cross-Encoder) &nbsp;|&nbsp; 
   <b>Published AI Research Paper</b>
