@@ -75,7 +75,7 @@ graph LR
 
 # Work Experience
 
-## Mobcoder AI — AIML Software Trainee
+## Mobcoder AI — Gen AI Engineer
 **Feb 2026 – Present | Noida, India**
 
 - Architected multi-agent orchestrated workflows (using LangGraph) to automate complex decision-making processes, including real-time clinical triage, which reduced manual analysis workload by an estimated 40%.
