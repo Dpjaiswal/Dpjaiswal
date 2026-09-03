@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dp-jaiswal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dpjaiswal.lkouniv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://dpjaiiswal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://Dpjaiswal.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf"><img src="https://img.shields.io/badge/Research_Paper-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 </p>
 
@@ -64,11 +64,11 @@ Dedicated GenAI Engineer specializing in building production-grade RAG pipelines
 
 ```mermaid
 graph LR
-    A[User Query] --> B[Two-Stage Hybrid Search: BM25 + Qdrant Dense]
-    B --> C[Reciprocal Rank Fusion RRF Merging]
-    C --> D[Cross-Encoder Reranking BGE-Reranker-Large]
-    D --> E[LangGraph Multi-Agent Workflow & Guardrails]
-    E --> F[Grounded & Source-Cited Output Response]
+    A["User Query"] --> B["Two-Stage Hybrid Search: BM25 + Qdrant Dense"]
+    B --> C["Reciprocal Rank Fusion (RRF) Merging"]
+    C --> D["Cross-Encoder Reranking (BGE-Reranker-Large)"]
+    D --> E["LangGraph Multi-Agent Workflow & Guardrails"]
+    E --> F["Grounded & Source-Cited Output Response"]
 ```
 
 ---
@@ -102,8 +102,6 @@ graph LR
 
 A production-grade healthcare AI platform built using **Agentic AI, LangGraph, FastAPI, RAG, Vision AI, and event-driven microservices** to automate clinical triage and support medical decision-making.
 
-- **Repository**: [Clinical Triage RAG System](https://github.com/Dpjaiswal)
-
 - Architected a distributed digital triage platform with stateful routing and tokenized access, automating healthcare data ingestion and reducing manual administrative entry by an estimated 40%.
 - Implemented a computer vision parsing pipeline that extracts and serializes unstructured image data into validated JSON schemas, accelerating data validation by 5-7 minutes per session.
 - Engineered a multi-agent orchestrated workflow utilizing constrained state-machines for automated clinical decision support, computing deterministic severity scores for 100% of triage events.
@@ -116,7 +114,7 @@ A production-grade healthcare AI platform built using **Agentic AI, LangGraph, F
 
 Enterprise-grade Financial AI system designed for auditability, grounded reasoning, deterministic evaluation, and intelligent financial document analysis.
 
-- **Repository**: [Hybrid Financial RAG](https://github.com/Dpjaiswal)
+- **Repository**: [finance-rag-pipeline](https://github.com/Dpjaiswal/finance-rag-pipeline)
 
 - Architected a stateful Financial RAG system using LangGraph and FastAPI, orchestrating 8 specialized AI intent tools to accelerate SEC document analysis, reducing research time from hours to seconds.
 - Engineered a two-stage Hybrid Search pipeline (Qdrant Dense + BM25) with Cross-Encoder reranking, improving top-10 retrieval accuracy for dense financial tables by over 40%.
@@ -130,7 +128,7 @@ Enterprise-grade Financial AI system designed for auditability, grounded reasoni
 
 Enterprise Legal AI system capable of answering legal questions strictly from retrieved legal judgments with complete source grounding.
 
-- **Repository**: [Legal RAG System](https://github.com/Dpjaiswal)
+- **Repository**: [Legal-AI-Assistant](https://github.com/Dpjaiswal/Legal-AI-Assistant)
 
 - Built a Legal AI application using FastAPI and React, reducing query response times by 85% via Groq's Llama-3.1.
 - Engineered a hybrid retrieval system in Qdrant with Cross-Encoder reranking, boosting context accuracy by 40%.
@@ -160,10 +158,9 @@ Published in: **International Journal of Advanced Multidisciplinary Research and
 # GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dpjaiswal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dpjaiswal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Dpjaiswal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dpjaiswal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Dpjaiswal&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" />
@@ -174,7 +171,7 @@ Published in: **International Journal of Advanced Multidisciplinary Research and
 # Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dpjaiswal&theme=tokyo-night" />
+  <img width="100%" src="https://ghchart.rshah.org/38bdf8/Dpjaiswal" alt="Durga Prasad Jaiswal's GitHub Contribution Calendar" />
 </p>
 
 ---
@@ -184,7 +181,7 @@ Published in: **International Journal of Advanced Multidisciplinary Research and
 <p align="center">
   <a href="mailto:dpjaiswal.lkouniv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dp-jaiswal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dpjaiiswal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://Dpjaiswal.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
