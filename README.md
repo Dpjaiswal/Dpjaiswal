@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dp-jaiswal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dpjaiswal.lkouniv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://Dpjaiswal.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://dpjaiiswal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://ijamred.com/volume1/issue4/IJAMRED-V1I4P56.pdf"><img src="https://img.shields.io/badge/Research_Paper-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 </p>
 
@@ -181,7 +181,7 @@ Published in: **International Journal of Advanced Multidisciplinary Research and
 <p align="center">
   <a href="mailto:dpjaiswal.lkouniv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dp-jaiswal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://Dpjaiswal.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://dpjaiiswal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
