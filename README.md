@@ -1,5 +1,5 @@
 <h1 align="center">Durga Prasad Jaiswal</h1>
-<h3 align="center">GenAI Engineer • Production RAG Systems • Agentic AI • LLM Application Development</h3>
+<h3 align="center">GenAI  • Production RAG Systems • Agentic AI • LLM Application Development</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Production-Grade+RAG+Pipelines;Agentic+AI+%7C+Multi-Agent+Systems;Hybrid+Retrieval+%2B+Cross-Encoder+Reranking;FastAPI+%2B+LangGraph+%2B+LangChain;Grounded+LLMs+with+Near-Zero+Hallucination;Scalable+Backend+Engineering;Enterprise+AI+Applications" />
