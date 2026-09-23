@@ -1,4 +1,4 @@
-<h1 align="center">Durga Prasad </h1>
+<h1 align="center">Durga Prasad Jaiswal</h1>
 <h3 align="center">GenAI Engineer • Production RAG Systems • Agentic AI • LLM Application Development</h3>
 
 <p align="center">
